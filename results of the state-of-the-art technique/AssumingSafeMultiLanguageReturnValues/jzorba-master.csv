@@ -1,0 +1,11 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,AssumingSafeMultiLanguageReturnValues,fieldName,setJObjectAttr__void,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jzorba-master/JZorba/src/main/native/JZorba_utils.cpp,JZorba_utils.cpp
+CS2,AssumingSafeMultiLanguageReturnValues,"<init>",throwJVMQueryException,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jzorba-master/JZorba/src/main/native/JZorba_utils.cpp,JZorba_utils.cpp
+CS3,AssumingSafeMultiLanguageReturnValues,"java/lang/String",Java_io_github_mksh_jzorba_JZorba_getURIPath,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jzorba-master/JZorba/src/main/native/JZorba.cpp,JZorba.cpp
+CS4,AssumingSafeMultiLanguageReturnValues,fieldName,setJQueryAttr__void,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jzorba-master/JZorba/src/main/native/JZorba_utils.cpp,JZorba_utils.cpp
+CS5,AssumingSafeMultiLanguageReturnValues,fieldName,setJQueryAttr__String,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jzorba-master/JZorba/src/main/native/JZorba_utils.cpp,JZorba_utils.cpp
+CS6,AssumingSafeMultiLanguageReturnValues,"zorba",getJQueryAttr__proxy,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jzorba-master/JZorba/src/main/native/JZorba_utils.cpp,JZorba_utils.cpp
+CS7,AssumingSafeMultiLanguageReturnValues,"cZorbaQryProxy",getJQueryAttr__JZorbaQueryProxy,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jzorba-master/JZorba/src/main/native/JZorba_utils.cpp,JZorba_utils.cpp
+CS8,AssumingSafeMultiLanguageReturnValues,fieldName,getJObjectAttr__void,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jzorba-master/JZorba/src/main/native/JZorba_utils.cpp,JZorba_utils.cpp
+CS9,AssumingSafeMultiLanguageReturnValues,"io/github/mksh/jzorba/JZorbaError",throwJVMQueryException,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jzorba-master/JZorba/src/main/native/JZorba_utils.cpp,JZorba_utils.cpp
+CS10,AssumingSafeMultiLanguageReturnValues,fieldName,getJQueryAttr__String,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jzorba-master/JZorba/src/main/native/JZorba_utils.cpp,JZorba_utils.cpp

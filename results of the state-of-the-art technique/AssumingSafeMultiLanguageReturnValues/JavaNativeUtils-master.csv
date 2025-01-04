@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,AssumingSafeMultiLanguageReturnValues,"DevInst",makeRefs,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/JavaNativeUtils-master/src/main/native/common/common.c,common.c
+CS2,AssumingSafeMultiLanguageReturnValues,"ptr",makeRefs,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/JavaNativeUtils-master/src/main/native/common/common.c,common.c

@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,AssumingSafeMultiLanguageReturnValues,"<init>",callback,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/ipc-master/jni/com_mittudev_ipc_Connection.c,com_mittudev_ipc_Connection.c
+CS2,AssumingSafeMultiLanguageReturnValues,"onMessage",callback,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/ipc-master/jni/com_mittudev_ipc_Connection.c,com_mittudev_ipc_Connection.c
+CS3,AssumingSafeMultiLanguageReturnValues,"com/mittudev/ipc/Message",callback,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/ipc-master/jni/com_mittudev_ipc_Connection.c,com_mittudev_ipc_Connection.c

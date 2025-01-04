@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,AssumingSafeMultiLanguageReturnValues,"java/lang/String",Java_com_example_game_jni_BreakItAll_getTestsList,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/Break_it_all-main/app/src/main/cpp/android/androidLib.cpp,androidLib.cpp
+CS2,AssumingSafeMultiLanguageReturnValues,len,Java_com_example_game_jni_Game_getTestsList,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/Break_it_all-main/app/src/main/cpp/android/main.cpp,main.cpp
