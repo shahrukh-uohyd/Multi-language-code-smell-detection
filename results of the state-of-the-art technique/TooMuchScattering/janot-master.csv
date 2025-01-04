@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScattering,,,NativeWindow,pl.pitcer.janot.gtk,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/janot-master/janot-jvm/src/main/java/pl/pitcer/janot/gtk/NativeWindow.java
+AP2,TooMuchScattering,,,NativeButton,pl.pitcer.janot.gtk,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/janot-master/janot-jvm/src/main/java/pl/pitcer/janot/gtk/NativeButton.java
+AP3,TooMuchScattering,,,NativeContainer,pl.pitcer.janot.gtk,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/janot-master/janot-jvm/src/main/java/pl/pitcer/janot/gtk/NativeContainer.java
+AP4,TooMuchScattering,,,NativeWidget,pl.pitcer.janot.gtk,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/janot-master/janot-jvm/src/main/java/pl/pitcer/janot/gtk/NativeWidget.java
+AP5,TooMuchScattering,,,NativeGtk,pl.pitcer.janot.gtk,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/janot-master/janot-jvm/src/main/java/pl/pitcer/janot/gtk/NativeGtk.java
