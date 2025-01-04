@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,StringUTFChars,Java_org_harctoolbox_devslashlirc_Mode2LircDevice_newMode2LircDevice,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/DevSlashLirc-master/src/main/c++/org_harctoolbox_devslashlirc_Mode2LircDevice.cpp,org_harctoolbox_devslashlirc_Mode2LircDevice.cpp
+CS2,MemoryManagementMismatch,IntArrayElements,Java_org_harctoolbox_devslashlirc_Mode2LircDevice_sendNative,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/DevSlashLirc-master/src/main/c++/org_harctoolbox_devslashlirc_Mode2LircDevice.cpp,org_harctoolbox_devslashlirc_Mode2LircDevice.cpp
