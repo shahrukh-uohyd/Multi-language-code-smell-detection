@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,lib,loadLibraries,SDLActivity,org.libsdl.app,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/SDL2-Ndk-Opengles-SampleApp-master/app/src/main/java/org/libsdl/app/SDLActivity.java,SDLActivity.java
