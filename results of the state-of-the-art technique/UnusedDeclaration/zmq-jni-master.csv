@@ -1,0 +1,23 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclaration,,zmq_z85_decode,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS2,UnusedDeclaration,,zmq_errno,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS3,UnusedDeclaration,,zmq_getsockopt_bytes,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS4,UnusedDeclaration,,zmq_disconnect,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS5,UnusedDeclaration,,zmq_bind,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS6,UnusedDeclaration,,zmq_ctx_get,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS7,UnusedDeclaration,,zmq_poll,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS8,UnusedDeclaration,,zmq_ctx_destroy,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS9,UnusedDeclaration,,zmq_z85_encode,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS10,UnusedDeclaration,,zmq_getsockopt_int,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS11,UnusedDeclaration,,zmq_ctx_set,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS12,UnusedDeclaration,,zmq_curve_keypair,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS13,UnusedDeclaration,,zmq_close,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS14,UnusedDeclaration,,zmq_getsockopt_long,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS15,UnusedDeclaration,,zmq_unbind,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS16,UnusedDeclaration,,zmq_send,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS17,UnusedDeclaration,,zmq_strerror,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS18,UnusedDeclaration,,zmq_setsockopt,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS19,UnusedDeclaration,,zmq_socket,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS20,UnusedDeclaration,,zmq_recv,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS21,UnusedDeclaration,,zmq_connect,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS22,UnusedDeclaration,,zmq_ctx_new,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
