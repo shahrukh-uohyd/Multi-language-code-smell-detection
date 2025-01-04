@@ -1,0 +1,10 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,name,Context::GetFieldID,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS2,NotHandlingExceptions,name,Context::GetStaticFieldID,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS3,NotHandlingExceptions,"java/lang/RuntimeException",throwJavaRuntimeException,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/JExceptionUtils.cpp,JExceptionUtils.cpp
+CS4,NotHandlingExceptions,name,Context::GetStaticMethodID,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS5,NotHandlingExceptions,className,findClass,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/dedekind-mkl.cpp,dedekind-mkl.cpp
+CS6,NotHandlingExceptions,name,Context::GetMethodID,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS7,NotHandlingExceptions,fieldName,findIntFieldId,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/dedekind-mkl.cpp,dedekind-mkl.cpp
+CS8,NotHandlingExceptions,fieldName,findDoubleFieldId,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/dedekind-mkl.cpp,dedekind-mkl.cpp
+CS9,NotHandlingExceptions,name,Context::FindClass,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp

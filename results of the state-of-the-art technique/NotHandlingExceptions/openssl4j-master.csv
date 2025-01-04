@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"java/lang/String",Java_de_sfuhrm_openssl4j_OpenSSLCipherNative_listCiphers,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/openssl4j-master/openssl4j/src/main/c/openssl4j_cipher.c,openssl4j_cipher.c
+CS2,NotHandlingExceptions,exceptionClassName,throw_error,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/openssl4j-master/openssl4j/src/main/c/openssl4j_common.c,openssl4j_common.c
+CS3,NotHandlingExceptions,"java/lang/String",Java_de_sfuhrm_openssl4j_OpenSSLMessageDigestNative_listMessageDigests,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/openssl4j-master/openssl4j/src/main/c/openssl4j_messagedigest.c,openssl4j_messagedigest.c

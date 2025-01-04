@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"mHPDFDocPointer",Java_org_libharu_PdfDocument_initIDs,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libhpdf-AndroidLibrary-master/library/jni/org_libharu_PdfDocument.c,org_libharu_PdfDocument.c
+CS2,NotHandlingExceptions,"mHPDFPagePointer",Java_org_libharu_PdfPage_initIDs,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libhpdf-AndroidLibrary-master/library/jni/org_libharu_PdfPage.c,org_libharu_PdfPage.c
+CS3,NotHandlingExceptions,"mParentHPDFDocPointer",Java_org_libharu_PdfPage_initIDs,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libhpdf-AndroidLibrary-master/library/jni/org_libharu_PdfPage.c,org_libharu_PdfPage.c

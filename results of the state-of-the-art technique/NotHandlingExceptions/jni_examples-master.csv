@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"example02/JNIExample02",Java_example02_JNIExample02_doPrint,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/jni_examples-master/example02/visualstudio/dllExample02/dllExample02/jni_example02.cpp,jni_example02.cpp
+CS2,NotHandlingExceptions,"setInformation",Java_example03_JNIExample03_getInformation,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/jni_examples-master/example03/visualstudio/dllExample03/dllExample03/jni_example03.cpp,jni_example03.cpp
+CS3,NotHandlingExceptions,"example03/StringInformation",Java_example03_JNIExample03_getInformation,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/jni_examples-master/example03/visualstudio/dllExample03/dllExample03/jni_example03.cpp,jni_example03.cpp
+CS4,NotHandlingExceptions,"printMessage",Java_example02_JNIExample02_doPrint,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/jni_examples-master/example02/visualstudio/dllExample02/dllExample02/jni_example02.cpp,jni_example02.cpp
