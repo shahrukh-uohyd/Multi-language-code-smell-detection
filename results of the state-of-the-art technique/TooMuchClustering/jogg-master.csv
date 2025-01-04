@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClustering,,,OggPacketJNI,org.echocat.jogg,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jogg-master/src/main/java/org/echocat/jogg/OggPacketJNI.java
+AP2,TooMuchClustering,,,OggPageJNI,org.echocat.jogg,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jogg-master/src/main/java/org/echocat/jogg/OggPageJNI.java
+AP3,TooMuchClustering,,,OggStreamStateJNI,org.echocat.jogg,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jogg-master/src/main/java/org/echocat/jogg/OggStreamStateJNI.java
+AP4,TooMuchClustering,,,OggSyncStateJNI,org.echocat.jogg,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jogg-master/src/main/java/org/echocat/jogg/OggSyncStateJNI.java
+AP5,TooMuchClustering,,,OggPackBufferJNI,org.echocat.jogg,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jogg-master/src/main/java/org/echocat/jogg/OggPackBufferJNI.java

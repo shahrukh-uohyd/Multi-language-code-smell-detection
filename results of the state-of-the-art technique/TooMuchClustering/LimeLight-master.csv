@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClustering,,,FTPClient,com.parrot.ftp,/home/shahrukh/smellDetection/Detection/projects/projects/projects7/LimeLight-master/app/src/main/java/com/parrot/ftp/FTPClient.java
+AP2,TooMuchClustering,,,DroneProxy,com.parrot.freeflight.drone,/home/shahrukh/smellDetection/Detection/projects/projects/projects7/LimeLight-master/app/src/main/java/com/parrot/freeflight/drone/DroneProxy.java
+AP3,TooMuchClustering,,,DroneConfig,com.parrot.freeflight.drone,/home/shahrukh/smellDetection/Detection/projects/projects/projects7/LimeLight-master/app/src/main/java/com/parrot/freeflight/drone/DroneConfig.java
