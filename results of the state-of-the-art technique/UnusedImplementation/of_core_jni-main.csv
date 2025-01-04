@@ -1,0 +1,22 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementation,,getInterfaces,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS2,UnusedImplementation,,statsHeap,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS3,UnusedImplementation,,getRootDir,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS4,UnusedImplementation,,getInterfaceDiscovery,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS5,UnusedImplementation,,getMaps,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS6,UnusedImplementation,,dumpHeap,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS7,UnusedImplementation,,update,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS8,UnusedImplementation,,removeMap,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS9,UnusedImplementation,,setLMB,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS10,UnusedImplementation,,setUUID,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS11,UnusedImplementation,,save,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS12,UnusedImplementation,,getDescription,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS13,UnusedImplementation,,getUUID,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS14,UnusedImplementation,,setInterfaceDiscovery,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS15,UnusedImplementation,,addMap,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS16,UnusedImplementation,,getHostname,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS17,UnusedImplementation,,addInterface,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS18,UnusedImplementation,,setHostname,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS19,UnusedImplementation,,removeInterface,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS20,UnusedImplementation,,getWorkgroup,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS21,UnusedImplementation,,setInterfaceFilter,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java

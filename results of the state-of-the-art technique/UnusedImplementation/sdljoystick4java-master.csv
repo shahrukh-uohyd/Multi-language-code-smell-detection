@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementation,,joystickFromInstanceId,SdlNative,com.illcode.sdljoystick4java,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/sdljoystick4java-master/src/com/illcode/sdljoystick4java/SdlNative.java,SdlNative.java
+CS2,UnusedImplementation,,gameControllerGetAxis,SdlNative,com.illcode.sdljoystick4java,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/sdljoystick4java-master/src/com/illcode/sdljoystick4java/SdlNative.java,SdlNative.java
+CS3,UnusedImplementation,,gameControllerFromInstanceId,SdlNative,com.illcode.sdljoystick4java,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/sdljoystick4java-master/src/com/illcode/sdljoystick4java/SdlNative.java,SdlNative.java
+CS4,UnusedImplementation,,gameControllerGetButton,SdlNative,com.illcode.sdljoystick4java,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/sdljoystick4java-master/src/com/illcode/sdljoystick4java/SdlNative.java,SdlNative.java
