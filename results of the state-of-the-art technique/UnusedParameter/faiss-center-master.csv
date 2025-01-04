@@ -1,0 +1,10 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedParameters,data,train,GpuIndexFlatL2,com.jiuyan.faiss.client,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/faiss-center-master/faiss-client/src/main/java/com/jiuyan/faiss/client/GpuIndexFlatL2.java,GpuIndexFlatL2.java
+CS2,UnusedParameters,xids,Index::add_with_ids,,faiss,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/faiss-center-master/faiss/Index.cpp,Index.cpp
+CS3,UnusedParameters,dim1,lookup,,faiss,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/faiss-center-master/faiss/gpu/test/TestUtils.cpp,TestUtils.cpp
+CS4,UnusedParameters,gpu_index,GpuManager::SetMapKeyGpuIndexIVFFlat,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/faiss-center-master/faissjni/jnisrc/gpu_manager.cpp,gpu_manager.cpp
+CS5,UnusedParameters,lhandle,Java_com_jiuyan_faiss_NativeClient_close,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/faiss-center-master/faissjni/jnisrc/com_jiuyan_faiss_NativeClient.cpp,com_jiuyan_faiss_NativeClient.cpp
+CS6,UnusedParameters,num,train,GpuIndexFlatL2,com.jiuyan.faiss.client,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/faiss-center-master/faiss-client/src/main/java/com/jiuyan/faiss/client/GpuIndexFlatL2.java,GpuIndexFlatL2.java
+CS7,UnusedParameters,bno,operator(),,faiss,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/faiss-center-master/faiss/utils.cpp,utils.cpp
+CS8,UnusedParameters,names,CheckNotNull,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/faiss-center-master/faissjni/glog/logging.h,logging.h
+CS9,UnusedParameters,cno,OperatingPoints::add,,faiss,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/faiss-center-master/faiss/AutoTune.cpp,AutoTune.cpp

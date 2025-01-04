@@ -1,0 +1,8 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedParameters,mods,App::keyCallback,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/Break_it_all-main/app/src/main/cpp/linux/App.cpp,App.cpp
+CS2,UnusedParameters,scancode,App::keyCallback,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/Break_it_all-main/app/src/main/cpp/linux/App.cpp,App.cpp
+CS3,UnusedParameters,xpos,Java_com_example_game_jni_BreakItAll_on_1touch_1event,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/Break_it_all-main/app/src/main/cpp/android/androidLib.cpp,androidLib.cpp
+CS4,UnusedParameters,ypos,Java_com_example_game_jni_BreakItAll_on_1touch_1event,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/Break_it_all-main/app/src/main/cpp/android/androidLib.cpp,androidLib.cpp
+CS5,UnusedParameters,position,Java_com_example_game_jni_BreakItAll_init,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/Break_it_all-main/app/src/main/cpp/android/androidLib.cpp,androidLib.cpp
+CS6,UnusedParameters,height,Java_com_example_game_jni_BreakItAll_surfaceChanged,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/Break_it_all-main/app/src/main/cpp/android/androidLib.cpp,androidLib.cpp
+CS7,UnusedParameters,width,Java_com_example_game_jni_BreakItAll_surfaceChanged,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/Break_it_all-main/app/src/main/cpp/android/androidLib.cpp,androidLib.cpp
