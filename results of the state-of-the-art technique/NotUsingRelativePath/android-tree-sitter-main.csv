@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingRelativePath,"user.dir",,TreeSitterTest,com.itsaky.androidide.treesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/android-tree-sitter/src/test/java/com/itsaky/androidide/treesitter/TreeSitterTest.java,TreeSitterTest.java
+CS2,NotUsingRelativePath,"ts",,MainActivity,com.itsaky.androidide.androidtreesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/app/src/main/java/com/itsaky/androidide/androidtreesitter/MainActivity.java,MainActivity.java
