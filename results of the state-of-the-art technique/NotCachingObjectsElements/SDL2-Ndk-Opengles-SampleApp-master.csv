@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotCachingObjectsElements,"close",Internal_Android_JNI_FileClose,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/SDL2-Ndk-Opengles-SampleApp-master/app/src/main/jni/SDL/src/core/android/SDL_android.c,SDL_android.c
