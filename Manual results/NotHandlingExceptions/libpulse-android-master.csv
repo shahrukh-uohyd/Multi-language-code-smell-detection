@@ -1,0 +1,25 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"setStateCbsPointer",set_state_cbs_ptr,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/context_util.c,context_util.c
+CS2,NotHandlingExceptions,field,get_char_field,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/jni_core.c,jni_core.c
+CS3,NotHandlingExceptions,"<init>",set_field_volume,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/pulse.c,pulse.c
+CS4,NotHandlingExceptions,fname,set_field_string,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/pulse.c,pulse.c
+CS5,NotHandlingExceptions,"getMainloopPointer",get_mainloop_ptr,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/context_util.c,context_util.c
+CS6,NotHandlingExceptions,"setEventCbsPointer",set_event_cbs_ptr,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/context_util.c,context_util.c
+CS7,NotHandlingExceptions,"unstoreGlobal",del_cb_globalref,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/context_util.c,context_util.c
+CS8,NotHandlingExceptions,fname,set_field_int,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/pulse.c,pulse.c
+CS9,NotHandlingExceptions,fname,set_field_boolean,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/pulse.c,pulse.c
+CS10,NotHandlingExceptions,"storeGlobal",get_cb_globalref,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/context_util.c,context_util.c
+CS11,NotHandlingExceptions,fname,get_long_field,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/jni_core.c,jni_core.c
+CS12,NotHandlingExceptions,fname,set_field_volume,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/pulse.c,pulse.c
+CS13,NotHandlingExceptions,"getStateCbsPointer",get_state_cbs_ptr,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/context_util.c,context_util.c
+CS14,NotHandlingExceptions,"setContext",set_cb_context,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/context_util.c,context_util.c
+CS15,NotHandlingExceptions,"mPointer",get_stream_ptr,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/stream.c,stream.c
+CS16,NotHandlingExceptions,fname,get_pointer_field,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/jni_core.c,jni_core.c
+CS17,NotHandlingExceptions,"<init>",set_field_channel_map,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/pulse.c,pulse.c
+CS18,NotHandlingExceptions,"mPointer",get_obj_ptr,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/jni_core.c,jni_core.c
+CS19,NotHandlingExceptions,fname,set_field_channel_map,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/pulse.c,pulse.c
+CS20,NotHandlingExceptions,path,init_class_helper,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/jni_core.c,jni_core.c
+CS21,NotHandlingExceptions,"mPointer",get_context_ptr,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/context_util.c,context_util.c
+CS22,NotHandlingExceptions,"getEventCbsPointer",get_event_cbs_ptr,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/context_util.c,context_util.c
+CS23,NotHandlingExceptions,name,throw_exception,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/jni_core.c,jni_core.c
+CS24,NotHandlingExceptions,fname,set_field_long,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/jni/pulse.c,pulse.c
