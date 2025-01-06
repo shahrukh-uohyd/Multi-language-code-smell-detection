@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedParameters,cache,Java_com_uce_userlab_haptics_HL_HLAPI_hlCacheGetBooleanv,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JTouchToolkit-master/v1/JTouchToolkit/C Code/HLAPI.c,HLAPI.c
+CS2,UnusedParameters,iparam,Java_com_uce_userlab_haptics_HD_HDAPI_hdEndFrame,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JTouchToolkit-master/v1/JTouchToolkit/C Code/HDAPI.c,HDAPI.c
+CS3,UnusedParameters,cache,Java_com_uce_userlab_haptics_HL_HLAPI_hlCacheGetDoublev,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JTouchToolkit-master/v1/JTouchToolkit/C Code/HLAPI.c,HLAPI.c
+CS4,UnusedParameters,pname,Java_com_uce_userlab_haptics_HL_HLAPI_hlCacheGetBooleanv,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JTouchToolkit-master/v1/JTouchToolkit/C Code/HLAPI.c,HLAPI.c
+CS5,UnusedParameters,pname,Java_com_uce_userlab_haptics_HL_HLAPI_hlCacheGetDoublev,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JTouchToolkit-master/v1/JTouchToolkit/C Code/HLAPI.c,HLAPI.c
