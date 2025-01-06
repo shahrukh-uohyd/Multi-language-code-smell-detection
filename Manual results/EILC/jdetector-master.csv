@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,refreshCounters,IbFabric,de.hhu.bsinfo.jdetector.lib,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/jdetector-master/src/main/java/de/hhu/bsinfo/jdetector/lib/IbFabric.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,refreshCounters,IbDiagPerfCounter,de.hhu.bsinfo.jdetector.lib,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/jdetector-master/src/main/java/de/hhu/bsinfo/jdetector/lib/IbDiagPerfCounter.java

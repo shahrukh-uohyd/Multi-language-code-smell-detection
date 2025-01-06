@@ -1,0 +1,10 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,setRegistryValueNumeric,JNIHelper,,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/JNIHelper-master/src/java/JNIHelper.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,beep,JNIHelper,,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/JNIHelper-master/src/java/JNIHelper.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,printColoredText,JNIHelper,,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/JNIHelper-master/src/java/JNIHelper.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,deleteRegistryValue,JNIHelper,,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/JNIHelper-master/src/java/JNIHelper.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,consoleClear,JNIHelper,,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/JNIHelper-master/src/java/JNIHelper.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,setRegistryValueText,JNIHelper,,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/JNIHelper-master/src/java/JNIHelper.java
+AP7,ExcessiveInterLanguageCommunicationDetectio,,getRegistryValueNumeric,JNIHelper,,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/JNIHelper-master/src/java/JNIHelper.java
+AP8,ExcessiveInterLanguageCommunicationDetectio,,getRegistryValueText,JNIHelper,,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/JNIHelper-master/src/java/JNIHelper.java
+AP9,ExcessiveInterLanguageCommunicationDetectio,,deleteRegistryKey,JNIHelper,,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/JNIHelper-master/src/java/JNIHelper.java

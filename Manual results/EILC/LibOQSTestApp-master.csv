@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,max_number_KEMs,KEMs,com.example.liboqs,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/LibOQSTestApp-master/liboqs-android/src/main/java/com/example/liboqs/KEMs.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,is_KEM_enabled,KEMs,com.example.liboqs,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/LibOQSTestApp-master/liboqs-android/src/main/java/com/example/liboqs/KEMs.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,max_number_sigs,Sigs,com.example.liboqs,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/LibOQSTestApp-master/liboqs-android/src/main/java/com/example/liboqs/Sigs.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,is_sig_enabled,Sigs,com.example.liboqs,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/LibOQSTestApp-master/liboqs-android/src/main/java/com/example/liboqs/Sigs.java

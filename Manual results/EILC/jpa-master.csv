@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,paIsStreamStopped,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,paIsStreamActive,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
