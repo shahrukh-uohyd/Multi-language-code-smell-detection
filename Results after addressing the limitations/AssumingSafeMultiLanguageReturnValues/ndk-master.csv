@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,AssumingSafeMultiLanguageReturnValuesDetectio,"getRotationDegree",CameraEngine::GetDisplayRotation,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/ndk-master/camera-basic/src/main/cpp/camera_ui.cpp,camera_ui.cpp
+CS2,AssumingSafeMultiLanguageReturnValuesDetectio,"<init>",Java_com_sample_textureview_ViewActivity_getMinimumCompatiblePreviewSize,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/ndk-master/camera-texture/src/main/cpp/android_main.cpp,android_main.cpp
