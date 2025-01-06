@@ -1,0 +1,8 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,App,com.bb_sz.ndk,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/appForkShell_a/src/main/java/com/bb_sz/ndk/App.java
+AP2,TooMuchScatteringDetectio,,,MainActivity,com.example.hello_jnicallback,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/app/src/main/java/com/example/hello_jnicallback/MainActivity.java
+AP3,TooMuchScatteringDetectio,,,MainActivity,com.example.hello_jnicallback,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/appForSDK/src/main/java/com/example/hello_jnicallback/MainActivity.java
+AP4,TooMuchScatteringDetectio,,,Http,com.bb_sz.ndk.http,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/appForkShell_x/src/main/java/com/bb_sz/ndk/http/Http.java
+AP5,TooMuchScatteringDetectio,,,JNI,com.bb_sz.ndk,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/appForkAd/src/main/java/com/bb_sz/ndk/JNI.java
+AP6,TooMuchScatteringDetectio,,,Http,com.bb_sz.ndk.http,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/appForkHttp/src/main/java/com/bb_sz/ndk/http/Http.java
+AP7,TooMuchScatteringDetectio,,,MainActivity,com.example.hello_jnicallback,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/appForkAd/src/main/java/com/example/hello_jnicallback/MainActivity.java

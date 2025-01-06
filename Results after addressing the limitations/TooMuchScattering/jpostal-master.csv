@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,AddressExpander,com.mapzen.jpostal,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/jpostal-master/src/main/java/com/mapzen/jpostal/AddressExpander.java
+AP2,TooMuchScatteringDetectio,,,Builder,com.mapzen.jpostal,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/jpostal-master/src/main/java/com/mapzen/jpostal/ExpanderOptions.java
+AP3,TooMuchScatteringDetectio,,,AddressParser,com.mapzen.jpostal,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/jpostal-master/src/main/java/com/mapzen/jpostal/AddressParser.java
+AP4,TooMuchScatteringDetectio,,,Builder,com.mapzen.jpostal,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/jpostal-master/src/main/java/com/mapzen/jpostal/ParserOptions.java
