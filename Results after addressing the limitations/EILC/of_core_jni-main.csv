@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,setPermission,FileSystem,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/FileSystem.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,isRemoteFile,FileSystem,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/FileSystem.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,normalize,FileSystem,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/FileSystem.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,listFiles,FileSystem,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/FileSystem.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,getBooleanAttributes,FileSystem,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/FileSystem.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,list,FileSystem,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/FileSystem.java

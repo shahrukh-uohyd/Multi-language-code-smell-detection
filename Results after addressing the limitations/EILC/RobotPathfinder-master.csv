@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,wheelsAt,Path,com.arctos6135.robotpathfinder.core.path,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/RobotPathfinder-master/src/main/java/com/arctos6135/robotpathfinder/core/path/Path.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,totalTime,BasicTrajectory,com.arctos6135.robotpathfinder.core.trajectory,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/RobotPathfinder-master/src/main/java/com/arctos6135/robotpathfinder/core/trajectory/BasicTrajectory.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,at,Path,com.arctos6135.robotpathfinder.core.path,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/RobotPathfinder-master/src/main/java/com/arctos6135/robotpathfinder/core/path/Path.java

@@ -1,0 +1,11 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,isEnabledPKCallbacks,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,isEnabledAtomicUser,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,getErrorString,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,isEnabledOCSP,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,X509_get_next_altname,WolfSSLCertificate,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSLCertificate.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,isEnabledCRLMonitor,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java
+AP7,ExcessiveInterLanguageCommunicationDetectio,,isEnabledPSK,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java
+AP8,ExcessiveInterLanguageCommunicationDetectio,,X509_load_certificate_file,WolfSSLCertificate,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSLCertificate.java
+AP9,ExcessiveInterLanguageCommunicationDetectio,,X509_load_certificate_buffer,WolfSSLCertificate,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSLCertificate.java
+AP10,ExcessiveInterLanguageCommunicationDetectio,,isEnabledCRL,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java
