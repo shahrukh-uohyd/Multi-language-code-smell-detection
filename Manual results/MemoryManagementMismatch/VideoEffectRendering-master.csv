@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,StringUTFChars,Java_cn_dennishucd_VideoEngine_OpenOut,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/VideoEffectRendering-master/app/src/main/jni/cn_dennishucd_FFmpegNative.c,cn_dennishucd_FFmpegNative.c
+CS2,MemoryManagementMismatch,StringUTFChars,Java_cn_dennishucd_VideoEngine_Open,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/VideoEffectRendering-master/app/src/main/jni/cn_dennishucd_FFmpegNative.c,cn_dennishucd_FFmpegNative.c

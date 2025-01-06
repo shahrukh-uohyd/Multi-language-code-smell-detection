@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,ByteArrayElements,Java_net_sourceforge_zbar_Image_setData___3B,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/jni/zbar/zbarjni.c,zbarjni.c
+CS2,MemoryManagementMismatch,IntArrayElements,Java_net_sourceforge_zbar_Image_setData___3I,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/jni/zbar/zbarjni.c,zbarjni.c
+CS3,MemoryManagementMismatch,StringUTFChars,Java_net_sourceforge_zbar_ImageScanner_parseConfig,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/jni/zbar/zbarjni.c,zbarjni.c
