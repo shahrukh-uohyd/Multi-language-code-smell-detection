@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"isv_app",,Java_Main,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Intel_SGX_Proj-master/DSP_LAB_2016_17/Final_Project/JavaSGX_Client_Server/Server/src/Java_Src_Server/Java_Main.java,Java_Main.java
+CS2,NotSecuringLibraries,libpath,,JniTest,edu.purdue.main,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Intel_SGX_Proj-master/jni-example/java-sgx/src/edu/purdue/main/JniTest.java,JniTest.java
+CS3,NotSecuringLibraries,libpath,,JavaSGX,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Intel_SGX_Proj-master/javaSGX/JavaSGX.java,JavaSGX.java
+CS4,NotSecuringLibraries,"Enc_Eval",,JavaApp,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Intel_SGX_Proj-master/DSP_LAB_2016_17/Individual_Parts_Of_Project/Server_Side/SGX_Evaluator/SGX_Evaluator/sgx/JavaApp.java,JavaApp.java
+CS5,NotSecuringLibraries,"Enc_Eval",,JavaSGX,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Intel_SGX_Proj-master/DSP_LAB_2016_17/Final_Project/JavaSGX_Client_Server/Server/src/JNI_Bindings_C_Code/Server_SGXArith_Core/sgx/enclave_Arith_Core/JavaSGX.java,JavaSGX.java
