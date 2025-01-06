@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,unimplementedStringFromJNI,HelloJni,com.example.hellojni,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/ndk-master/hello-jni/src/main/java/com/example/hellojni/HelloJni.java,HelloJni.java
+CS2,UnusedDeclarationDetectio,,createEngine,NativeCodec,com.example.nativecodec,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/ndk-master/native-codec/src/main/java/com/example/nativecodec/NativeCodec.java,NativeCodec.java
