@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,show,NativeNotification,pl.pitcer.janot.notify,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/janot-master/janot-jvm/src/main/java/pl/pitcer/janot/notify/NativeNotification.java,NativeNotification.java
+CS2,UnusedImplementationDetectio,,close,NativeNotification,pl.pitcer.janot.notify,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/janot-master/janot-jvm/src/main/java/pl/pitcer/janot/notify/NativeNotification.java,NativeNotification.java

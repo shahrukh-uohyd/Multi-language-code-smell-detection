@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,destroyPointer,UIntPtrPointer,com.github.novelrt.fumocement.builtin,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/FumoCement-main/src/main/java/com/github/novelrt/fumocement/builtin/UIntPtrPointer.java,UIntPtrPointer.java
+CS2,UnusedImplementationDetectio,,createPointerContext,FunctionPointer,com.github.novelrt.fumocement,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/FumoCement-main/src/main/java/com/github/novelrt/fumocement/FunctionPointer.java,FunctionPointer.java
+CS3,UnusedImplementationDetectio,,destroyPointerContext,FunctionPointer,com.github.novelrt.fumocement,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/FumoCement-main/src/main/java/com/github/novelrt/fumocement/FunctionPointer.java,FunctionPointer.java

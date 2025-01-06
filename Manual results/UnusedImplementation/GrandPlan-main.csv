@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,descriptions,Frameworks,tech.npwd.gp.backend,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/GrandPlan-main/app/src/main/java/tech/npwd/gp/backend/Frameworks.java,Frameworks.java
+CS2,UnusedImplementationDetectio,,removeEvent,Frameworks,tech.npwd.gp.backend,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/GrandPlan-main/app/src/main/java/tech/npwd/gp/backend/Frameworks.java,Frameworks.java
+CS3,UnusedImplementationDetectio,,encodeEvent,Frameworks,tech.npwd.gp.backend,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/GrandPlan-main/app/src/main/java/tech/npwd/gp/backend/Frameworks.java,Frameworks.java
+CS4,UnusedImplementationDetectio,,hourFormat,Frameworks,tech.npwd.gp.backend,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/GrandPlan-main/app/src/main/java/tech/npwd/gp/backend/Frameworks.java,Frameworks.java
+CS5,UnusedImplementationDetectio,,hour,Frameworks,tech.npwd.gp.backend,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/GrandPlan-main/app/src/main/java/tech/npwd/gp/backend/Frameworks.java,Frameworks.java
+CS6,UnusedImplementationDetectio,,colorOfDay,Frameworks,tech.npwd.gp.backend,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/GrandPlan-main/app/src/main/java/tech/npwd/gp/backend/Frameworks.java,Frameworks.java
