@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,getValue,CharPointer,com.github.novelrt.fumocement.builtin,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/FumoCement-main/src/main/java/com/github/novelrt/fumocement/builtin/CharPointer.java,CharPointer.java
+CS2,UnusedDeclarationDetectio,,allocatePointer,CharPointer,com.github.novelrt.fumocement.builtin,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/FumoCement-main/src/main/java/com/github/novelrt/fumocement/builtin/CharPointer.java,CharPointer.java
+CS3,UnusedDeclarationDetectio,,getByteBufferLocationRaw,Pointers,com.github.novelrt.fumocement,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/FumoCement-main/src/main/java/com/github/novelrt/fumocement/Pointers.java,Pointers.java
+CS4,UnusedDeclarationDetectio,,destroyPointer,CharPointer,com.github.novelrt.fumocement.builtin,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/FumoCement-main/src/main/java/com/github/novelrt/fumocement/builtin/CharPointer.java,CharPointer.java

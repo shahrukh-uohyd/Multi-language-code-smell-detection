@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,searchLengthMin,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS2,UnusedDeclarationDetectio,,searchLengthMax,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java

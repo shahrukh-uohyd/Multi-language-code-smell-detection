@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,stopLooperForTest,ADIManager,com.adi,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/ADI-master/adi_lib/adi/src/main/java/com/adi/ADIManager.java,ADIManager.java
+CS2,UnusedDeclarationDetectio,,pushToLooperForTest,ADIManager,com.adi,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/ADI-master/adi_lib/adi/src/main/java/com/adi/ADIManager.java,ADIManager.java
+CS3,UnusedDeclarationDetectio,,startLooperForTest,ADIManager,com.adi,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/ADI-master/adi_lib/adi/src/main/java/com/adi/ADIManager.java,ADIManager.java
