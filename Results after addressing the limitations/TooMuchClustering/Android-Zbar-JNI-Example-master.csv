@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClusteringDetectio,,,Image,net.sourceforge.zbar,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/java/net/sourceforge/zbar/Image.java
+AP2,TooMuchClusteringDetectio,,,ImageScanner,net.sourceforge.zbar,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/java/net/sourceforge/zbar/ImageScanner.java
+AP3,TooMuchClusteringDetectio,,,Symbol,net.sourceforge.zbar,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/java/net/sourceforge/zbar/Symbol.java

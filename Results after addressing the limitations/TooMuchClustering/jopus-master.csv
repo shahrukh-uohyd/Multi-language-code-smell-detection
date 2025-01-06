@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClusteringDetectio,,,OpusEncoderJNI,org.echocat.jopus,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/java/org/echocat/jopus/OpusEncoderJNI.java
+AP2,TooMuchClusteringDetectio,,,OpusDecoderJNI,org.echocat.jopus,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/java/org/echocat/jopus/OpusDecoderJNI.java
+AP3,TooMuchClusteringDetectio,,,OpusHeaderJNI,org.echocat.jopus,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/java/org/echocat/jopus/OpusHeaderJNI.java

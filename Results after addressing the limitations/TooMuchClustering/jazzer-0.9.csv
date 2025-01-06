@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClusteringDetectio,,,TraceDataFlowNativeCallbacks,com.code_intelligence.jazzer.runtime,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/agent/src/main/java/com/code_intelligence/jazzer/runtime/TraceDataFlowNativeCallbacks.java
+AP2,TooMuchClusteringDetectio,,,FuzzedDataProviderImpl,com.code_intelligence.jazzer.runtime,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/agent/src/main/java/com/code_intelligence/jazzer/runtime/FuzzedDataProviderImpl.java
