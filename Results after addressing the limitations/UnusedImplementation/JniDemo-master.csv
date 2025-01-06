@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,similarDegree,StringUtils,com.panda912.jnidemo.string,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JniDemo-master/app/src/main/java/com/panda912/jnidemo/string/StringUtils.java,StringUtils.java
+CS2,UnusedImplementationDetectio,,decryptAES,Crypto,com.panda912.jnidemo.crypto,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JniDemo-master/app/src/main/java/com/panda912/jnidemo/crypto/Crypto.java,Crypto.java
+CS3,UnusedImplementationDetectio,,nativeCallJavaMethod,JniUtils,com.panda912.jnidemo,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JniDemo-master/app/src/main/java/com/panda912/jnidemo/JniUtils.java,JniUtils.java
+CS4,UnusedImplementationDetectio,,stringFromJNI,JniUtils,com.panda912.jnidemo,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JniDemo-master/app/src/main/java/com/panda912/jnidemo/JniUtils.java,JniUtils.java

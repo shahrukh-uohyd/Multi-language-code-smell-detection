@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,stop_offer_event,SomeIPService,com.lxl.someiplib,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/ndk-someiplib-main/ndk-vsomeip/someiplib/src/main/java/com/lxl/someiplib/SomeIPService.java,SomeIPService.java
+CS2,UnusedImplementationDetectio,,offer_field,SomeIPService,com.lxl.someiplib,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/ndk-someiplib-main/ndk-vsomeip/someiplib/src/main/java/com/lxl/someiplib/SomeIPService.java,SomeIPService.java
+CS3,UnusedImplementationDetectio,,stop_offer_field,SomeIPService,com.lxl.someiplib,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/ndk-someiplib-main/ndk-vsomeip/someiplib/src/main/java/com/lxl/someiplib/SomeIPService.java,SomeIPService.java
