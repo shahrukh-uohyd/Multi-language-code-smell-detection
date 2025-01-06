@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClusteringDetectio,,,JNICommonNativeUtil,io.github.alexanderschuetz97.nativeutils.impl,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/JavaNativeUtils-master/src/main/java/io/github/alexanderschuetz97/nativeutils/impl/JNICommonNativeUtil.java
+AP2,TooMuchClusteringDetectio,,,JNIWindowsNativeUtil,io.github.alexanderschuetz97.nativeutils.impl,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/JavaNativeUtils-master/src/main/java/io/github/alexanderschuetz97/nativeutils/impl/JNIWindowsNativeUtil.java
+AP3,TooMuchClusteringDetectio,,,JNINativeMemory,io.github.alexanderschuetz97.nativeutils.impl,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/JavaNativeUtils-master/src/main/java/io/github/alexanderschuetz97/nativeutils/impl/JNINativeMemory.java
+AP4,TooMuchClusteringDetectio,,,JNILinuxNativeUtil,io.github.alexanderschuetz97.nativeutils.impl,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/JavaNativeUtils-master/src/main/java/io/github/alexanderschuetz97/nativeutils/impl/JNILinuxNativeUtil.java
