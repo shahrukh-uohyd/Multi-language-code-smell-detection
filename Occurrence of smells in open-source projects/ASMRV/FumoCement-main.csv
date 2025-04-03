@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,AssumingSafeMultiLanguageReturnValues,Signature,getCachedMethod,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/FumoCement-main/native/FumoCement.h,FumoCement.h
+CS2,AssumingSafeMultiLanguageReturnValues,Signature,,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/FumoCement-main/native/FumoCement.h,FumoCement.h
+CS3,AssumingSafeMultiLanguageReturnValues,,getCachedClass,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/FumoCement-main/native/FumoCement.h,FumoCement.h
+CS4,AssumingSafeMultiLanguageReturnValues,Signature,getCachedField,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/FumoCement-main/native/FumoCement.h,FumoCement.h
+CS5,AssumingSafeMultiLanguageReturnValues,Signature,getCachedStaticMethod,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/FumoCement-main/native/FumoCement.h,FumoCement.h

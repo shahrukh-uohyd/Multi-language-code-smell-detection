@@ -1,0 +1,11 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,AssumingSafeMultiLanguageReturnValues,"r",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS2,AssumingSafeMultiLanguageReturnValues,"op",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS3,AssumingSafeMultiLanguageReturnValues,"w",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS4,AssumingSafeMultiLanguageReturnValues,"y",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS5,AssumingSafeMultiLanguageReturnValues,"x",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS6,AssumingSafeMultiLanguageReturnValues,"h",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS7,AssumingSafeMultiLanguageReturnValues,"libjpeg/TurboJpeg$Transform$Region",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS8,AssumingSafeMultiLanguageReturnValues,"[I",Java_libjpeg_TurboJpeg_tjGetScalingFactors,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS9,AssumingSafeMultiLanguageReturnValues,"libjpeg/TurboJpeg$Transform",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS10,AssumingSafeMultiLanguageReturnValues,"options",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp

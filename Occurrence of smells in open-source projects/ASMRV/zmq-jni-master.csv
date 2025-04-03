@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,AssumingSafeMultiLanguageReturnValues,"position",Java_org_zeromq_jni_ZMQ_nativeInit,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/c++/zmq.cpp,zmq.cpp
+CS2,AssumingSafeMultiLanguageReturnValues,"flip",Java_org_zeromq_jni_ZMQ_nativeInit,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/c++/zmq.cpp,zmq.cpp
+CS3,AssumingSafeMultiLanguageReturnValues,"java/nio/CharBuffer",Java_org_zeromq_jni_ZMQ_nativeInit,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/c++/zmq.cpp,zmq.cpp
+CS4,AssumingSafeMultiLanguageReturnValues,"put",Java_org_zeromq_jni_ZMQ_nativeInit,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/c++/zmq.cpp,zmq.cpp
+CS5,AssumingSafeMultiLanguageReturnValues,"java/nio/ByteBuffer",Java_org_zeromq_jni_ZMQ_nativeInit,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/c++/zmq.cpp,zmq.cpp
+CS6,AssumingSafeMultiLanguageReturnValues,"limit",Java_org_zeromq_jni_ZMQ_nativeInit,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/c++/zmq.cpp,zmq.cpp

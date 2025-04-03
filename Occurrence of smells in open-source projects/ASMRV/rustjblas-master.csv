@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,AssumingSafeMultiLanguageReturnValues,"v",set_svd_result,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/rustjblas-master/cpp/jblas_format.cpp,jblas_format.cpp
+CS2,AssumingSafeMultiLanguageReturnValues,"pointer",get_matrix_pointer,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/rustjblas-master/cpp/jblas_format.cpp,jblas_format.cpp
+CS3,AssumingSafeMultiLanguageReturnValues,EXCEPTION_CLASS,throw_exception,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/rustjblas-master/cpp/jblas_format.cpp,jblas_format.cpp
+CS4,AssumingSafeMultiLanguageReturnValues,"s",set_svd_result,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/rustjblas-master/cpp/jblas_format.cpp,jblas_format.cpp
+CS5,AssumingSafeMultiLanguageReturnValues,"u",set_svd_result,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/rustjblas-master/cpp/jblas_format.cpp,jblas_format.cpp
