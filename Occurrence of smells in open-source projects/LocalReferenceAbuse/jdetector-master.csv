@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,LocalReferencesAbuse,port,Java_de_hhu_bsinfo_jdetector_lib_IbFabric_init,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/jdetector-master/src/main/cpp/detector-jni/IbFabric.cpp,IbFabric.cpp
+CS2,LocalReferencesAbuse,node,Java_de_hhu_bsinfo_jdetector_lib_IbFabric_init,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/jdetector-master/src/main/cpp/detector-jni/IbFabric.cpp,IbFabric.cpp
+CS3,LocalReferencesAbuse,port,Java_de_hhu_bsinfo_jdetector_lib_IbDiagPerfCounter_getLocalPorts,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/jdetector-master/src/main/cpp/detector-jni/IbDiagPerfCounter.cpp,IbDiagPerfCounter.cpp
