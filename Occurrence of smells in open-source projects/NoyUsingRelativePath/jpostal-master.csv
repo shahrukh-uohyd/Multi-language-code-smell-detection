@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingRelativePath,"jpostal_parser",,ParserOptions,com.mapzen.jpostal,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/jpostal-master/src/main/java/com/mapzen/jpostal/ParserOptions.java,ParserOptions.java
+CS2,NotUsingRelativePath,"jpostal_expander",,AddressExpander,com.mapzen.jpostal,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/jpostal-master/src/main/java/com/mapzen/jpostal/AddressExpander.java,AddressExpander.java
+CS3,NotUsingRelativePath,"jpostal_parser",,AddressParser,com.mapzen.jpostal,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/jpostal-master/src/main/java/com/mapzen/jpostal/AddressParser.java,AddressParser.java
+CS4,NotUsingRelativePath,"jpostal_expander",,ExpanderOptions,com.mapzen.jpostal,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/jpostal-master/src/main/java/com/mapzen/jpostal/ExpanderOptions.java,ExpanderOptions.java
