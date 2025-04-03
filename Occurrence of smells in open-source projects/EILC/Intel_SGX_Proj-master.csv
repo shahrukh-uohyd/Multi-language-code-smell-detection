@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunication,,send_MSG1,Java_Main,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Intel_SGX_Proj-master/DSP_LAB_2016_17/Final_Project/JavaSGX_Client_Server/Server/src/Java_Src_Server/Java_Main.java
+AP2,ExcessiveInterLanguageCommunication,,send_MSG0,Java_Main,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Intel_SGX_Proj-master/DSP_LAB_2016_17/Final_Project/JavaSGX_Client_Server/Server/src/Java_Src_Server/Java_Main.java
+AP3,ExcessiveInterLanguageCommunication,,config_extended_ID,Java_Main,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Intel_SGX_Proj-master/DSP_LAB_2016_17/Final_Project/JavaSGX_Client_Server/Server/src/Java_Src_Server/Java_Main.java
+AP4,ExcessiveInterLanguageCommunication,,send_MSG3,Java_Main,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Intel_SGX_Proj-master/DSP_LAB_2016_17/Final_Project/JavaSGX_Client_Server/Server/src/Java_Src_Server/Java_Main.java
+AP5,ExcessiveInterLanguageCommunication,,func_init_enclave_ra,Java_Main,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Intel_SGX_Proj-master/DSP_LAB_2016_17/Final_Project/JavaSGX_Client_Server/Server/src/Java_Src_Server/Java_Main.java

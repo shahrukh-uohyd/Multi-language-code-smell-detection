@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunication,,nativeUpdateWithByteArray,OpenSSLMessageDigestNative,de.sfuhrm.openssl4j,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/openssl4j-master/openssl4j/src/main/java/de/sfuhrm/openssl4j/OpenSSLMessageDigestNative.java
+AP2,ExcessiveInterLanguageCommunication,,nativeUpdateWithByteBuffer,OpenSSLMessageDigestNative,de.sfuhrm.openssl4j,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/openssl4j-master/openssl4j/src/main/java/de/sfuhrm/openssl4j/OpenSSLMessageDigestNative.java
+AP3,ExcessiveInterLanguageCommunication,,nativeUpdateWithByte,OpenSSLMessageDigestNative,de.sfuhrm.openssl4j,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/openssl4j-master/openssl4j/src/main/java/de/sfuhrm/openssl4j/OpenSSLMessageDigestNative.java
