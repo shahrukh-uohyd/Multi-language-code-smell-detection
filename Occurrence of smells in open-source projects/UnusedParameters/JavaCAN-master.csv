@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedParameters,terminal,handleException,EventLoop<HandleType, ChannelType extends Channel>,tel.schich.javacan.util,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/JavaCAN-master/epoll/src/main/java/tel/schich/javacan/util/EventLoop.java,EventLoop.java
+CS2,UnusedParameters,validate,set,CanSocketOptions,tel.schich.javacan,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/JavaCAN-master/core/src/main/java/tel/schich/javacan/CanSocketOptions.java,CanSocketOptions.java
+CS3,UnusedParameters,validate,set,IsotpCanSocketOptions,tel.schich.javacan,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/JavaCAN-master/core/src/main/java/tel/schich/javacan/IsotpCanSocketOptions.java,IsotpCanSocketOptions.java
