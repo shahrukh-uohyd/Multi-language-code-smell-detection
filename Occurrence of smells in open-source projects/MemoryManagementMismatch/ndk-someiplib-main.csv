@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,ByteArrayElements,Java_com_lxl_someiplib_SomeIPService_notify,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/ndk-someiplib-main/ndk-vsomeip/someiplib/src/main/cpp/VSomeIPServiceJNI.cpp,VSomeIPServiceJNI.cpp
+CS2,MemoryManagementMismatch,ByteArrayElements,Java_com_lxl_someiplib_SomeIPClient_send_1request,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/ndk-someiplib-main/ndk-vsomeip/someiplib/src/main/cpp/VSomeIPClientJNI.cpp,VSomeIPClientJNI.cpp
+CS3,MemoryManagementMismatch,ByteArrayElements,Java_com_lxl_someiplib_SomeIPService_send_1response,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/ndk-someiplib-main/ndk-vsomeip/someiplib/src/main/cpp/VSomeIPServiceJNI.cpp,VSomeIPServiceJNI.cpp
