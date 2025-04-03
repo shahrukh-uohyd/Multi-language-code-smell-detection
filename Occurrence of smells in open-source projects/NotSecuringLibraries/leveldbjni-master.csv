@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,targetFile.getAbsolutePath(),,LevelDb,com.github.vallez.leveldbjni,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/leveldbjni-master/library/src/com/github/vallez/leveldbjni/LevelDb.java,LevelDb.java
+CS2,NotSecuringLibraries,LIBNAME,,LevelDb,com.github.vallez.leveldbjni,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/leveldbjni-master/library/src/com/github/vallez/leveldbjni/LevelDb.java,LevelDb.java

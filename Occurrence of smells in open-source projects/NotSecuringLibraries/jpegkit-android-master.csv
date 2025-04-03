@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"jpegkit",,JpegView,jpegkit,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/java/jpegkit/JpegView.java,JpegView.java
+CS2,NotSecuringLibraries,"jpegkit",,Jpeg,jpegkit,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/java/jpegkit/Jpeg.java,Jpeg.java

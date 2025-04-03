@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"zbarjni",,Image,net.sourceforge.zbar,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/java/net/sourceforge/zbar/Image.java,Image.java
+CS2,NotSecuringLibraries,"zbarjni",,ImageScanner,net.sourceforge.zbar,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/java/net/sourceforge/zbar/ImageScanner.java,ImageScanner.java
+CS3,NotSecuringLibraries,"zbarjni",,SymbolSet,net.sourceforge.zbar,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/java/net/sourceforge/zbar/SymbolSet.java,SymbolSet.java
+CS4,NotSecuringLibraries,"zbarjni",,Symbol,net.sourceforge.zbar,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/java/net/sourceforge/zbar/Symbol.java,Symbol.java

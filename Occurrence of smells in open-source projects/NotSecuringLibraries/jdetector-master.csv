@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"detectorJNI",,IbFabric,de.hhu.bsinfo.jdetector.lib,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/jdetector-master/src/main/java/de/hhu/bsinfo/jdetector/lib/IbFabric.java,IbFabric.java
+CS2,NotSecuringLibraries,"detectorJNI",,NativeBuildConfig,de.hhu.bsinfo.jdetector.lib,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/jdetector-master/src/main/java/de/hhu/bsinfo/jdetector/lib/NativeBuildConfig.java,NativeBuildConfig.java
+CS3,NotSecuringLibraries,"detectorJNI",,IbDiagPerfCounter,de.hhu.bsinfo.jdetector.lib,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/jdetector-master/src/main/java/de/hhu/bsinfo/jdetector/lib/IbDiagPerfCounter.java,IbDiagPerfCounter.java

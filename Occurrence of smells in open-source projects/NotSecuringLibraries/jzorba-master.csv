@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"jzorba",,JZorba,io.github.mksh.jzorba,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jzorba-master/JZorba/src/main/java/io/github/mksh/jzorba/JZorba.java,JZorba.java
+CS2,NotSecuringLibraries,jZorbaLibPath,suite,JZorbaTest,io.github.mksh,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jzorba-master/JZorba/src/test/java/io/github/mksh/JZorbaTest.java,JZorbaTest.java

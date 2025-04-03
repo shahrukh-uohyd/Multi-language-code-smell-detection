@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,tempPath.toAbsolutePath().toString(),loadLibrary,NativeLoader,dev.onvoid.webrtc.internal,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/internal/NativeLoader.java,NativeLoader.java

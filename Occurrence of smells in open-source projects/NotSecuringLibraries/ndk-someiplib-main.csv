@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"VSomeIPServiceJNI",,SomeIPService,com.lxl.someiplib,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/ndk-someiplib-main/ndk-vsomeip/someiplib/src/main/java/com/lxl/someiplib/SomeIPService.java,SomeIPService.java
+CS2,NotSecuringLibraries,"VSomeIPClientJNI",,SomeIPClient,com.lxl.someiplib,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/ndk-someiplib-main/ndk-vsomeip/someiplib/src/main/java/com/lxl/someiplib/SomeIPClient.java,SomeIPClient.java

@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,libname,loadLibrary,DoubleMatrix,com.github.sadikovi.rustjblas,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/rustjblas-master/java/src/main/java/com/github/sadikovi/rustjblas/DoubleMatrix.java,DoubleMatrix.java
