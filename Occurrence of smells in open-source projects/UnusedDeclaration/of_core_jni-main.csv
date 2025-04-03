@@ -1,0 +1,8 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclaration,,resolve,FileSystem,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/FileSystem.java,FileSystem.java
+CS2,UnusedDeclaration,,write,FileSystem,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/FileSystem.java,FileSystem.java
+CS3,UnusedDeclaration,,getMyAddresses,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS4,UnusedDeclaration,,getAuthenticationMode,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS5,UnusedDeclaration,,setAuthenticationMode,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS6,UnusedDeclaration,,addProxyGateway,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS7,UnusedDeclaration,,read,FileSystem,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/FileSystem.java,FileSystem.java

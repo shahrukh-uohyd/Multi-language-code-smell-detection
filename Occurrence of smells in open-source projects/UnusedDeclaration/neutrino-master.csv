@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclaration,,bindMemoryWindow,Verbs,de.hhu.bsinfo.neutrino.verbs,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/neutrino-master/core/src/main/java/de/hhu/bsinfo/neutrino/verbs/Verbs.java,Verbs.java
+CS2,UnusedDeclaration,,addNativeComplex,JniCall,de.hhu.bsinfo.neutrino.bench,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/neutrino-master/core/src/main/java/de/hhu/bsinfo/neutrino/bench/JniCall.java,JniCall.java
