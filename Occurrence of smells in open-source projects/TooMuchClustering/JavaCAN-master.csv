@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClustering,,,BcmMessage,tel.schich.javacan,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/JavaCAN-master/core/src/main/java/tel/schich/javacan/BcmMessage.java
+AP2,TooMuchClustering,,,EPoll,tel.schich.javacan.platform.linux.epoll,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/JavaCAN-master/epoll/src/main/java/tel/schich/javacan/platform/linux/epoll/EPoll.java
+AP3,TooMuchClustering,,,SocketCAN,tel.schich.javacan,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/JavaCAN-master/core/src/main/java/tel/schich/javacan/SocketCAN.java

@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClustering,,,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java
+AP2,TooMuchClustering,,,ZstdDirectBufferCompressingStreamNoFinalizer,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/ZstdDirectBufferCompressingStreamNoFinalizer.java
+AP3,TooMuchClustering,,,ZstdCompressCtx,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/ZstdCompressCtx.java

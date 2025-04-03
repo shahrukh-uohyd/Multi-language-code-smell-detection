@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClustering,,,WolfSSLCertificate,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSLCertificate.java
+AP2,TooMuchClustering,,,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java
+AP3,TooMuchClustering,,,WolfSSLContext,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSLContext.java
+AP4,TooMuchClustering,,,WolfSSLSession,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSLSession.java
