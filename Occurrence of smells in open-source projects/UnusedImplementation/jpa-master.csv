@@ -1,0 +1,13 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementation,,getHostApiInfo,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS2,UnusedImplementation,,getDefaultInputDevice,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS3,UnusedImplementation,,getDeviceInfo,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS4,UnusedImplementation,,hostApiDeviceIndexToDeviceIndex,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS5,UnusedImplementation,,getLastHostErrorInfo,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS6,UnusedImplementation,,getDefaultOutputDevice,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS7,UnusedImplementation,,getVersion,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS8,UnusedImplementation,,getDefaultHostApi,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS9,UnusedImplementation,,getHostApiCount,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS10,UnusedImplementation,,getDeviceCount,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS11,UnusedImplementation,,getVersionText,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS12,UnusedImplementation,,hostApiTypeIdToHostApiIndex,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
