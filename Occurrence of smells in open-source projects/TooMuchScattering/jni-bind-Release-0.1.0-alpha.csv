@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScattering,,,ClassLoaderTest,com.jnibind.test,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/jni-bind-Release-0.1.0-alpha/javatests/com/jnibind/test/ClassLoaderTest.java
+AP2,TooMuchScattering,,,FieldTest,com.jnibind.test,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/jni-bind-Release-0.1.0-alpha/javatests/com/jnibind/test/FieldTest.java
