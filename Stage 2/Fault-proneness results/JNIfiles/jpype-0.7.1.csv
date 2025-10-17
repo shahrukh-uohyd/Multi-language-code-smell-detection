@@ -1,0 +1,7 @@
+JNI Files
+cloned_abidi/Remaining Abidi Projects/jpype-0.7.1/native/common/jp_env.cpp
+cloned_abidi/Remaining Abidi Projects/jpype-0.7.1/native/common/jp_proxy.cpp
+cloned_abidi/Remaining Abidi Projects/jpype-0.7.1/native/common/include/jp_javaframe.h
+cloned_abidi/Remaining Abidi Projects/jpype-0.7.1/native/java/org/jpype/ref/JPypeReferenceQueue.java
+cloned_abidi/Remaining Abidi Projects/jpype-0.7.1/native/java/org/jpype/proxy/JPypeInvocationHandler.java
+cloned_abidi/Remaining Abidi Projects/jpype-0.7.1/native/jni_include/jni.h

@@ -1,0 +1,21 @@
+File Path
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/internal/SPI.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/jdbc/SingleRowReader.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/internal/TupleDesc.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/internal/Session.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/internal/Backend.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/jdbc/Invocation.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/jdbc/SQLOutputToChunk.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/jdbc/SQLInputFromChunk.java
+pljava-rel1_5_stable-base/pljava-so/src/main/c/type/LargeObject.c
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/internal/XactListener.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/internal/Oid.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/internal/JavaWrapper.java
+pljava-rel1_5_stable-base/pljava-so/src/main/c/JNICalls.c
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/internal/ExecutionPlan.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/internal/PgSavepoint.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/internal/SubXactListener.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/internal/Relation.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/internal/Tuple.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/jdbc/SQLInputFromTuple.java
+pljava-rel1_5_stable-base/pljava/src/main/java/org/postgresql/pljava/internal/HeapTupleHeader.java

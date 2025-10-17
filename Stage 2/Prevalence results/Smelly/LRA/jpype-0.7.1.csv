@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,LocalReferencesAbuse,c,Java_jpype_JPypeInvocationHandler_hostInvoke,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/jpype-0.7.1/native/common/jp_proxy.cpp,jp_proxy.cpp
+CS2,LocalReferencesAbuse,val,Java_jpype_JPypeInvocationHandler_hostInvoke,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/jpype-0.7.1/native/common/jp_proxy.cpp,jp_proxy.cpp

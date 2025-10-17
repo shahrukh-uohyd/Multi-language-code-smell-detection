@@ -1,0 +1,9 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,mk_eq,Z3NativeApi,org.sosy_lab.solver.z3,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/java-smt-0.1/src/org/sosy_lab/solver/z3/Z3NativeApi.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,get_error_msg_ex,Z3NativeApi,org.sosy_lab.solver.z3,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/java-smt-0.1/src/org/sosy_lab/solver/z3/Z3NativeApi.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,inc_ref,Z3NativeApi,org.sosy_lab.solver.z3,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/java-smt-0.1/src/org/sosy_lab/solver/z3/Z3NativeApi.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,get_error_code,Z3NativeApi,org.sosy_lab.solver.z3,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/java-smt-0.1/src/org/sosy_lab/solver/z3/Z3NativeApi.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,mk_store,Z3NativeApi,org.sosy_lab.solver.z3,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/java-smt-0.1/src/org/sosy_lab/solver/z3/Z3NativeApi.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,mk_forall_const,Z3NativeApi,org.sosy_lab.solver.z3,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/java-smt-0.1/src/org/sosy_lab/solver/z3/Z3NativeApi.java
+AP7,ExcessiveInterLanguageCommunicationDetectio,,mk_exists_const,Z3NativeApi,org.sosy_lab.solver.z3,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/java-smt-0.1/src/org/sosy_lab/solver/z3/Z3NativeApi.java
+AP8,ExcessiveInterLanguageCommunicationDetectio,,mk_select,Z3NativeApi,org.sosy_lab.solver.z3,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/java-smt-0.1/src/org/sosy_lab/solver/z3/Z3NativeApi.java

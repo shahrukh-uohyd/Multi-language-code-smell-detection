@@ -1,0 +1,8 @@
+JNI Files
+cloned_abidi/Remaining Abidi Projects/java-smt-0.3 (2)/java-smt-0.3/lib/native/source/libz3j/includes/error_handling.h
+cloned_abidi/Remaining Abidi Projects/java-smt-0.3 (2)/java-smt-0.3/lib/native/source/libz3j/includes/function.h
+cloned_abidi/Remaining Abidi Projects/java-smt-0.3 (2)/java-smt-0.3/lib/native/source/libz3j/includes/arguments.h
+cloned_abidi/Remaining Abidi Projects/java-smt-0.3 (2)/java-smt-0.3/lib/native/source/libmathsat5j/org_sosy_1lab_solver_mathsat5_Mathsat5NativeApi.c
+cloned_abidi/Remaining Abidi Projects/java-smt-0.3 (2)/java-smt-0.3/lib/native/source/libmathsat5j/includes/defines.h
+cloned_abidi/Remaining Abidi Projects/java-smt-0.3 (2)/java-smt-0.3/src/org/sosy_lab/solver/z3/Z3NativeApi.java
+cloned_abidi/Remaining Abidi Projects/java-smt-0.3 (2)/java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApi.java

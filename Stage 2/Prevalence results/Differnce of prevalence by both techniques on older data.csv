@@ -1,0 +1,11 @@
+System,% of smelly files by revised technique,By older technique,Difference
+Conscrypt ,25.38,30.21,-4.83
+Java-smt ,41.90,36.21,5.69
+Javacpp ,100.00,58.97,41.03
+Jpype ,54.98,7.45,47.53
+Pljava ,39.18,30.13,9.05
+Realm-java ,34.81,11.67,23.14
+Rocksdb ,44.46,36.3,8.16
+Vlc ,36.78,30.49,6.29
+Zstd ,90.48,61.36,29.12
+Average,53.64,33.64,20.00

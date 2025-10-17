@@ -1,0 +1,108 @@
+Project,Release,JNI files,smelly files,Percentage
+Conscrypt,conscrypt-1.0.0.RC11,13,4,30.77
+Conscrypt,conscrypt-1.0.0.RC14,13,3,23.08
+Conscrypt,conscrypt-1.0.0.RC2,13,4,30.77
+Conscrypt,conscrypt-1.0.0.RC8,13,4,30.77
+Conscrypt,conscrypt-1.0.1,13,3,23.08
+Conscrypt,conscrypt-1.0.2,13,3,23.08
+Conscrypt,conscrypt-1.1.1,13,3,23.08
+Conscrypt,conscrypt-1.2.0,13,3,23.08
+Conscrypt,conscrypt-1.4.2,13,3,23.08
+Conscrypt,conscrypt-2.1.0,13,3,23.08
+Conscrypt Average,,,,25.3846153846154
+Java-smt,java-smt-0.1,2,2,100.00
+Java-smt,java-smt-0.3 (2),7,3,42.86
+Java-smt,java-smt-0.5,7,3,42.86
+Java-smt,java-smt-0.60,2,1,50.00
+Java-smt,java-smt-1.0.1,3,1,33.33
+Java-smt,java-smt-2.0.0,3,1,33.33
+Java-smt,java-smt-2.0.0-alpha,3,1,33.33
+Java-smt,java-smt-2.2.0,4,1,25.00
+Java-smt,java-smt-3.0.0,3,1,33.33
+Java-smt,java-smt-3.1.0,4,1,25.00
+Java-smt Average,,,,41.9047619047619
+Javacpp,javacpp-0.5,12,12,100.00
+Javacpp,javacpp-0.9,12,12,100.00
+Javacpp,javacpp-1.1,14,14,100.00
+Javacpp,javacpp-1.2,13,13,100.00
+Javacpp,javacpp-1.2.1,13,13,100.00
+Javacpp,javacpp-1.2.7,13,13,100.00
+Javacpp,javacpp-1.3,13,13,100.00
+Javacpp,javacpp-1.3.2,14,14,100.00
+Javacpp,javacpp-1.4,15,15,100.00
+Javacpp,javacpp-1.4.2,16,16,100.00
+Javacpp,javacpp-1.4.4,18,18,100.00
+Javacpp,javacpp-1.5,18,18,100.00
+Javacpp,javacpp-1.5.1-1,18,18,100.00
+Javacpp Average,,,,100
+Jpype,jpype-0.7.1,6,5,83.33
+Jpype,jpype-v0.5.4.5,4,1,25.00
+Jpype,jpype-v0.5.5.1,4,1,25.00
+Jpype,jpype-v0.5.5.4,4,2,50.00
+Jpype,jpype-v0.5.6,4,2,50.00
+Jpype,jpype-v0.5.7,5,3,60.00
+Jpype,jpype-v0.6.0,5,3,60.00
+Jpype,jpype-v0.6.1,5,3,60.00
+Jpype,jpype-v0.6.2,5,3,60.00
+Jpype,jpype-v0.6.3,5,3,60.00
+Jpype,jpype-v0.7,7,5,71.43
+Jpype Average,,,,54.978354978355
+Pljava,pljava-1_2_0,41,15,36.59
+Pljava,pljava-1_3_0,50,19,38.00
+Pljava,pljava-1_4_0,50,19,38.00
+Pljava,pljava-1_4_2,50,19,38.00
+Pljava,pljava-rel1_5_stable-base,50,20,40.00
+Pljava,pljava-V1_4_3,50,19,38.00
+Pljava,pljava-V1_5_0,48,19,39.58
+Pljava,pljava-V1_5_0b3,48,19,39.58
+Pljava,pljava-V1_5_1b1,46,18,39.13
+Pljava,pljava-V1_5_1b2,52,21,40.38
+Pljava,pljava-V1_5_2,52,21,40.38
+Pljava,pljava-V1_5_3,47,20,42.55
+Pljava Average,,,,39.1837407967939
+Realm-java,realm-java-v0.90.0,44,18,40.91
+Realm-java,realm-java-v1.2.0,32,12,37.50
+Realm-java,realm-java-v2.3.2,49,19,38.78
+Realm-java,realm-java-v3.7.2,64,23,35.94
+Realm-java,realm-java-v4.4.0,67,22,32.84
+Realm-java,realm-java-v5.11.0,79,26,32.91
+Realm-java,realm-java-v5.15.0,81,26,32.10
+Realm-java,realm-java-v5.4.0,70,22,31.43
+Realm-java,realm-java-v5.7.1,72,23,31.94
+Realm-java,realm-java-v5.9.0,77,26,33.77
+Realm-java Average,,,,34.8107329485107
+Rocksdb,rocksdb-v5.0.2,86,46,53.49
+Rocksdb,rocksdb-v5.11.2,121,53,43.80
+Rocksdb,rocksdb-v5.14.3,123,53,43.09
+Rocksdb,rocksdb-v5.17.2,125,53,42.40
+Rocksdb,rocksdb-v5.18.3,130,61,46.92
+Rocksdb,rocksdb-v5.4.6,93,44,47.31
+Rocksdb,rocksdb-v5.6.2,93,43,46.24
+Rocksdb,rocksdb-v5.9.2,103,45,43.69
+Rocksdb,rocksdb-v6.1.1,152,59,38.82
+Rocksdb,rocksdb-v6.2.2,152,59,38.82
+Rocksdb Average,,,,44.4571819235463
+Vlc,vlc-3.0.0,57,16,28.07
+Vlc,vlc-3.0.11,57,16,28.07
+Vlc,vlc-3.0.13,57,15,26.32
+Vlc,vlc-3.0.92,33,14,42.42
+Vlc,vlc-3.0.96,33,14,42.42
+Vlc,vlc-3.1.0,33,14,42.42
+Vlc,vlc-3.1.2,33,14,42.42
+Vlc,vlc-3.1.6,33,14,42.42
+Vlc,vlc-3.1.7,33,14,42.42
+Vlc,vlc-android-2.5.4,52,16,30.77
+Vlc Average,,,,36.7770825665562
+Zstd,zstd-jni-v0.4.4,6,3,50.00
+Zstd,zstd-jni-v1.3.0-1,14,13,92.86
+Zstd,zstd-jni-v1.3.2-2,14,13,92.86
+Zstd,zstd-jni-v1.3.3-1,14,13,92.86
+Zstd,zstd-jni-v1.3.4-1,15,14,93.33
+Zstd,zstd-jni-v1.3.4-8,15,14,93.33
+Zstd,zstd-jni-v1.3.5-3,15,14,93.33
+Zstd,zstd-jni-v1.3.7-1,15,14,93.33
+Zstd,zstd-jni-v1.3.8-1,15,14,93.33
+Zstd,zstd-jni-v1.4.0-1,15,15,100.00
+Zstd,zstd-jni-v1.4.2-1,15,15,100.00
+Zstd Average,,,,90.4761904761905
+Grand Average,,,,53.6448313076436

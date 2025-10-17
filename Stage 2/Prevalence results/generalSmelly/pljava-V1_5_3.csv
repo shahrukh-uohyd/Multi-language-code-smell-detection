@@ -1,0 +1,21 @@
+File Path
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/VarlenaWrapper.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/Oid.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/DualState.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/Backend.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/Portal.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/SubXactListener.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/ExecutionPlan.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/jdbc/TypeOid.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/PgSavepoint.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/Tuple.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/jdbc/SingleRowReader.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/TupleDesc.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/Session.java
+pljava-V1_5_3/pljava-so/src/main/c/JNICalls.c
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/Relation.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/SPI.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/jdbc/SQLOutputToChunk.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/jdbc/SQLXMLImpl.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/XactListener.java
+pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/jdbc/Invocation.java

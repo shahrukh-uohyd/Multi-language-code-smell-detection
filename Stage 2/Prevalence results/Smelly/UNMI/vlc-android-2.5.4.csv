@@ -1,0 +1,8 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,getPlayerState,MediaPlayer,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/vlc-android-2.5.4/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS2,UnusedImplementationDetectio,,previousChapter,MediaPlayer,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/vlc-android-2.5.4/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS3,UnusedImplementationDetectio,,nextChapter,MediaPlayer,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/vlc-android-2.5.4/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS4,UnusedImplementationDetectio,,version,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/vlc-android-2.5.4/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS5,UnusedImplementationDetectio,,getPosition,MediaPlayer,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/vlc-android-2.5.4/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS6,UnusedImplementationDetectio,,changeset,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/vlc-android-2.5.4/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS7,UnusedImplementationDetectio,,compiler,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/vlc-android-2.5.4/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java

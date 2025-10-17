@@ -1,0 +1,13 @@
+File Path
+realm-java-v1.2.0/realm/realm-jni/src/io_realm_internal_Util.cpp
+realm-java-v1.2.0/realm/realm-library/src/main/java/io/realm/internal/LinkView.java
+realm-java-v1.2.0/realm/realm-library/src/main/java/io/realm/internal/CheckedRow.java
+realm-java-v1.2.0/realm/realm-jni/src/io_realm_internal_TableQuery.cpp
+realm-java-v1.2.0/realm/realm-jni/src/util.cpp
+realm-java-v1.2.0/realm/realm-library/src/main/java/io/realm/internal/SharedGroup.java
+realm-java-v1.2.0/realm/realm-library/src/main/java/io/realm/internal/UncheckedRow.java
+realm-java-v1.2.0/realm/realm-library/src/main/java/io/realm/internal/Group.java
+realm-java-v1.2.0/realm/realm-library/src/main/java/io/realm/internal/Table.java
+realm-java-v1.2.0/realm/realm-library/src/main/java/io/realm/internal/TableQuery.java
+realm-java-v1.2.0/realm/realm-jni/src/java_lang_List_Util.cpp
+realm-java-v1.2.0/realm/realm-library/src/main/java/io/realm/internal/TableView.java
