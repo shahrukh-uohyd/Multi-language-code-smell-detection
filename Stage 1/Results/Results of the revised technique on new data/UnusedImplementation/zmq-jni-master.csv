@@ -1,0 +1,14 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,zmq_z85_decode,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS2,UnusedImplementationDetectio,,zmq_getsockopt_bytes,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS3,UnusedImplementationDetectio,,zmq_disconnect,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS4,UnusedImplementationDetectio,,zmq_ctx_get,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS5,UnusedImplementationDetectio,,version,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS6,UnusedImplementationDetectio,,zmq_z85_encode,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS7,UnusedImplementationDetectio,,zmq_getsockopt_int,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS8,UnusedImplementationDetectio,,zmq_ctx_set,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS9,UnusedImplementationDetectio,,zmq_curve_keypair,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS10,UnusedImplementationDetectio,,zmq_getsockopt_long,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS11,UnusedImplementationDetectio,,zmq_unbind,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS12,UnusedImplementationDetectio,,zmq_setsockopt,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java
+CS13,UnusedImplementationDetectio,,zmq_recv,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java,ZMQ.java

@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClustering,,,Ecc,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/wolfcrypt-jni-master/src/main/java/com/wolfssl/wolfcrypt/Ecc.java
+AP2,TooMuchClustering,,,Ed25519,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/wolfcrypt-jni-master/src/main/java/com/wolfssl/wolfcrypt/Ed25519.java
+AP3,TooMuchClustering,,,Fips,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/wolfcrypt-jni-master/src/main/java/com/wolfssl/wolfcrypt/Fips.java
+AP4,TooMuchClustering,,,Curve25519,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/wolfcrypt-jni-master/src/main/java/com/wolfssl/wolfcrypt/Curve25519.java
+AP5,TooMuchClustering,,,Hmac,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/wolfcrypt-jni-master/src/main/java/com/wolfssl/wolfcrypt/Hmac.java
+AP6,TooMuchClustering,,,Rsa,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/wolfcrypt-jni-master/src/main/java/com/wolfssl/wolfcrypt/Rsa.java

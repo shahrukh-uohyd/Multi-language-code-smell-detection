@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedParameters,view,onItemSelected,MainInterface,tech.npwd.gp.ui,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/GrandPlan-main/app/src/main/java/tech/npwd/gp/ui/MainInterface.java,MainInterface.java
+CS2,UnusedParameters,parent,onNothingSelected,MainInterface,tech.npwd.gp.ui,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/GrandPlan-main/app/src/main/java/tech/npwd/gp/ui/MainInterface.java,MainInterface.java
+CS3,UnusedParameters,savedInstanceState,onCreateDialog,AddInterface,tech.npwd.gp.ui,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/GrandPlan-main/app/src/main/java/tech/npwd/gp/ui/AddInterface.java,AddInterface.java
+CS4,UnusedParameters,savedInstanceState,onCreateDialog,EventInterface,tech.npwd.gp.ui,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/GrandPlan-main/app/src/main/java/tech/npwd/gp/ui/EventInterface.java,EventInterface.java

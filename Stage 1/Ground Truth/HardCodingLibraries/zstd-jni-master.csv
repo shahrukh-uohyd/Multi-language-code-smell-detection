@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,HardCodingLibraries,libnameShort,load,,com.github.luben.zstd.util,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/util/Native.java,Native.java
+CS2,HardCodingLibraries,tempLib.getAbsolutePath(),load,,com.github.luben.zstd.util,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/util/Native.java,Native.java

@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,getData,Symbol,net.sourceforge.zbar,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/java/net/sourceforge/zbar/Symbol.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,getLocationY,Symbol,net.sourceforge.zbar,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/java/net/sourceforge/zbar/Symbol.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,getLocationX,Symbol,net.sourceforge.zbar,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/java/net/sourceforge/zbar/Symbol.java

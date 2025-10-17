@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,AssumingSafeMultiLanguageReturnValues,"<init>",Java_tel_schich_javacan_NativeInterface_readRawFrame,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/JavaCAN-javacan-1.2/src/main/c/javacan_socketcan.c,javacan_socketcan.c
+CS2,AssumingSafeMultiLanguageReturnValues,"tel/schich/javacan/CanFrame",Java_tel_schich_javacan_NativeInterface_readRawFrame,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/JavaCAN-javacan-1.2/src/main/c/javacan_socketcan.c,javacan_socketcan.c

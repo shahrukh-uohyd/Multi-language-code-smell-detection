@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"JHLAPI",,HLAPI,com.uce.userlab.haptics.HL,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JTouchToolkit-master/v1/JTouchToolkit/src/com/uce/userlab/haptics/HL/HLAPI.java,HLAPI.java
+CS2,NotSecuringLibraries,"JHDAPI",,HDAPI,com.uce.userlab.haptics.HD,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JTouchToolkit-master/v1/JTouchToolkit/src/com/uce/userlab/haptics/HD/HDAPI.java,HDAPI.java
+CS3,NotSecuringLibraries,"JHDAL",,HDLU,com.bcu.userlab.haptics.HDAL,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JTouchToolkit-master/v2/JTouchToolkit/src/com/bcu/userlab/haptics/HDAL/HDLU.java,HDLU.java
+CS4,NotSecuringLibraries,"JHDAL",,HDAL,com.bcu.userlab.haptics.HDAL,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JTouchToolkit-master/v2/JTouchToolkit/src/com/bcu/userlab/haptics/HDAL/HDAL.java,HDAL.java

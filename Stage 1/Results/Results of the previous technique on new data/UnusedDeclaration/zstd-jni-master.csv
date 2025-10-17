@@ -1,0 +1,26 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclaration,,errWorkSpaceTooSmall,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS2,UnusedDeclaration,,errCorruptionDetected,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS3,UnusedDeclaration,,errStageWrong,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS4,UnusedDeclaration,,errVersionUnsupported,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS5,UnusedDeclaration,,errFrameParameterWindowTooLarge,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS6,UnusedDeclaration,,errParameterOutOfBound,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS7,UnusedDeclaration,,errParameterUnsupported,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS8,UnusedDeclaration,,errDictionaryCorrupted,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS9,UnusedDeclaration,,errMemoryAllocation,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS10,UnusedDeclaration,,errChecksumWrong,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS11,UnusedDeclaration,,errMaxSymbolValueTooSmall,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS12,UnusedDeclaration,,errNoError,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS13,UnusedDeclaration,,errSrcSizeWrong,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS14,UnusedDeclaration,,errMaxSymbolValueTooLarge,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS15,UnusedDeclaration,,errDictionaryWrong,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS16,UnusedDeclaration,,errPrefixUnknown,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS17,UnusedDeclaration,,errInitMissing,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS18,UnusedDeclaration,,errDstSizeTooSmall,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS19,UnusedDeclaration,,errGeneric,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS20,UnusedDeclaration,,errFrameParameterUnsupported,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS21,UnusedDeclaration,,searchLengthMax,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS22,UnusedDeclaration,,errTableLogTooLarge,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS23,UnusedDeclaration,,searchLengthMin,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS24,UnusedDeclaration,,errDstBufferNull,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS25,UnusedDeclaration,,errDictionaryCreationFailed,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java

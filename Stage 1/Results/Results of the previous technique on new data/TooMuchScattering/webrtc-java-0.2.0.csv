@@ -1,0 +1,11 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScattering,,,NativeI420Buffer,dev.onvoid.webrtc.media.video,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/media/video/NativeI420Buffer.java
+AP2,TooMuchScattering,,,ScreenCapturer,dev.onvoid.webrtc.media.video.desktop,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/media/video/desktop/ScreenCapturer.java
+AP3,TooMuchScattering,,,WindowCapturer,dev.onvoid.webrtc.media.video.desktop,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/media/video/desktop/WindowCapturer.java
+AP4,TooMuchScattering,,,MediaSource,dev.onvoid.webrtc.media,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/media/MediaSource.java
+AP5,TooMuchScattering,,,RTCDtlsTransport,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/RTCDtlsTransport.java
+AP6,TooMuchScattering,,,VideoTrack,dev.onvoid.webrtc.media.video,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/media/video/VideoTrack.java
+AP7,TooMuchScattering,,,VideoBufferConverter,dev.onvoid.webrtc.media.video,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/media/video/VideoBufferConverter.java
+AP8,TooMuchScattering,,,MediaDevices,dev.onvoid.webrtc.media,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/media/MediaDevices.java
+AP9,TooMuchScattering,,,DesktopCapturer,dev.onvoid.webrtc.media.video.desktop,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/media/video/desktop/DesktopCapturer.java
+AP10,TooMuchScattering,,,RTCRtpReceiver,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/RTCRtpReceiver.java

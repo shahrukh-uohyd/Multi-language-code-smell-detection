@@ -1,0 +1,20 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,AssumingSafeMultiLanguageReturnValues,"input",Java_com_github_rjeschke_jpa_JPA_dataAlloc,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS2,AssumingSafeMultiLanguageReturnValues,"callback",Java_com_github_rjeschke_jpa_JPA_dataAlloc,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS3,AssumingSafeMultiLanguageReturnValues,"com/github/rjeschke/jpa/PaHostApiInfo",toHostApiInfo,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS4,AssumingSafeMultiLanguageReturnValues,"com/github/rjeschke/jpa/PaDeviceInfo",toPaDeviceInfo,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS5,AssumingSafeMultiLanguageReturnValues,"com/github/rjeschke/jpa/PaStreamInfo",toStreamInfo,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS6,AssumingSafeMultiLanguageReturnValues,"<init>",toHostErrorInfo,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS7,AssumingSafeMultiLanguageReturnValues,"channelCount",toStreamParameters,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS8,AssumingSafeMultiLanguageReturnValues,"com/github/rjeschke/jpa/JPA",jpaStreamCallback,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS9,AssumingSafeMultiLanguageReturnValues,"suggestedLatency",toStreamParameters,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS10,AssumingSafeMultiLanguageReturnValues,"com/github/rjeschke/jpa/PaHostErrorInfo",toHostErrorInfo,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS11,AssumingSafeMultiLanguageReturnValues,"<init>",toPaDeviceInfo,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS12,AssumingSafeMultiLanguageReturnValues,"<init>",toStreamInfo,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS13,AssumingSafeMultiLanguageReturnValues,"com/github/rjeschke/jpa/PaStreamParameters",toStreamParameters,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS14,AssumingSafeMultiLanguageReturnValues,"<init>",toHostApiInfo,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS15,AssumingSafeMultiLanguageReturnValues,"sampleFormat",toStreamParameters,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS16,AssumingSafeMultiLanguageReturnValues,"byteBuffer",Java_com_github_rjeschke_jpa_JPA_dataAlloc,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS17,AssumingSafeMultiLanguageReturnValues,"device",toStreamParameters,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS18,AssumingSafeMultiLanguageReturnValues,"resize",Java_com_github_rjeschke_jpa_JPA_dataAlloc,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c
+CS19,AssumingSafeMultiLanguageReturnValues,"output",Java_com_github_rjeschke_jpa_JPA_dataAlloc,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/native/jpa.c,jpa.c

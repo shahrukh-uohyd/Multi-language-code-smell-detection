@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,read,LircCodeLircDevice,org.harctoolbox.devslashlirc,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/DevSlashLirc-master/src/main/java/org/harctoolbox/devslashlirc/LircCodeLircDevice.java,LircCodeLircDevice.java
+CS2,UnusedImplementationDetectio,,send,LircCodeLircDevice,org.harctoolbox.devslashlirc,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/DevSlashLirc-master/src/main/java/org/harctoolbox/devslashlirc/LircCodeLircDevice.java,LircCodeLircDevice.java
+CS3,UnusedImplementationDetectio,,openNative,Mode2LircDevice,org.harctoolbox.devslashlirc,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/DevSlashLirc-master/src/main/java/org/harctoolbox/devslashlirc/Mode2LircDevice.java,Mode2LircDevice.java

@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,RSA,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/wolfcrypt/RSA.java
+AP2,TooMuchScatteringDetectio,,,ECC,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/wolfcrypt/ECC.java
+AP3,TooMuchScatteringDetectio,,,EccKey,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/wolfcrypt/EccKey.java
+AP4,TooMuchScatteringDetectio,,,WolfSSLX509StoreCtx,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSLX509StoreCtx.java
+AP5,TooMuchScatteringDetectio,,,WolfSSLCertManager,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSLCertManager.java

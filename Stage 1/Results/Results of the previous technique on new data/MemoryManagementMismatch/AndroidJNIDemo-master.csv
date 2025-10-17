@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,StringUTFChars,Java_com_gavinandre_nativeloglibrary_JLogLib_logFromJava,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/AndroidJNIDemo-master/nativeloglibrary/src/main/cpp/jlog_lib.cpp,jlog_lib.cpp
+CS2,MemoryManagementMismatch,StringUTFChars,Java_com_gavinandre_nativeloglibrary_JLogLib_initLog,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/AndroidJNIDemo-master/nativeloglibrary/src/main/cpp/jlog_lib.cpp,jlog_lib.cpp

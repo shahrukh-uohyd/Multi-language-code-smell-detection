@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"dllExample04",main,JNIExample04,example04,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/jni_examples-master/example04/eclipse/testExample04/src/example04/JNIExample04.java,JNIExample04.java
+CS2,NotSecuringLibraries,"src/example01/dllExample01",main,JNIExample01,example01,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/jni_examples-master/example01/eclipse/testExample01/src/example01/JNIExample01.java,JNIExample01.java
+CS3,NotSecuringLibraries,"dllExample06",,Main,example06C,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/jni_examples-master/example06/eclipse/testExample06/src/example06C/Main.java,Main.java
+CS4,NotSecuringLibraries,"src/example02/dllExample02",main,JNIExample02,example02,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/jni_examples-master/example02/eclipse/testExample02/src/example02/JNIExample02.java,JNIExample02.java
+CS5,NotSecuringLibraries,"src/example03/dllExample03",main,JNIExample03,example03,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/jni_examples-master/example03/eclipse/testExample03/src/example03/JNIExample03.java,JNIExample03.java
+CS6,NotSecuringLibraries,"dllExample05B",main,JNIExample05,example05,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/jni_examples-master/example05/eclipse/testExample05/src/example05/JNIExample05.java,JNIExample05.java

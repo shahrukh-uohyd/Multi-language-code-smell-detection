@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclaration,,setSize,Image,net.sourceforge.zbar,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/java/net/sourceforge/zbar/Image.java,Image.java
+CS2,UnusedDeclaration,,setCrop,Image,net.sourceforge.zbar,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/Android-Zbar-JNI-Example-master/app/src/main/java/net/sourceforge/zbar/Image.java,Image.java

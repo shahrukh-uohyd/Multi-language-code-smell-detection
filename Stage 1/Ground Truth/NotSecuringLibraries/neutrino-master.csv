@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,name,load,NativeLibrary,de.hhu.bsinfo.neutrino.util,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/neutrino-master/core/src/main/java/de/hhu/bsinfo/neutrino/util/NativeLibrary.java,NativeLibrary.java
+CS2,NotSecuringLibraries,target.toAbsolutePath().toString(),loadFromResources,NativeLibrary,de.hhu.bsinfo.neutrino.util,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/neutrino-master/core/src/main/java/de/hhu/bsinfo/neutrino/util/NativeLibrary.java,NativeLibrary.java

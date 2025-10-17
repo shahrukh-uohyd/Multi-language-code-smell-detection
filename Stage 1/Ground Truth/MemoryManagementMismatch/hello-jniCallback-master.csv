@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,ByteArrayElements,decryptForShell,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/appForkShell_a/src/main/jni/shell.c,shell.c
+CS2,MemoryManagementMismatch,StringUTFChars,getHttpData,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/appForSDK/src/main/jni/hello-jnicallback.c,hello-jnicallback.c
+CS3,MemoryManagementMismatch,StringUTFChars,getPackname,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/app/src/main/jni/hello-jnicallback.c,hello-jnicallback.c
+CS4,MemoryManagementMismatch,StringUTFChars,getJava,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/appForSDK/src/main/jni/hello-jnicallback.c,hello-jnicallback.c

@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClustering,,,CommunicationManager,de.hhu.bsinfo.neutrino.verbs,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/neutrino-master/core/src/main/java/de/hhu/bsinfo/neutrino/verbs/CommunicationManager.java
+AP2,TooMuchClustering,,,JniCall,de.hhu.bsinfo.neutrino.bench,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/neutrino-master/core/src/main/java/de/hhu/bsinfo/neutrino/bench/JniCall.java
+AP3,TooMuchClustering,,,Verbs,de.hhu.bsinfo.neutrino.verbs,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/neutrino-master/core/src/main/java/de/hhu/bsinfo/neutrino/verbs/Verbs.java

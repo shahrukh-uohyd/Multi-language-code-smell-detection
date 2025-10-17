@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,AssumingSafeMultiLanguageReturnValues,name,Context::GetFieldID,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS2,AssumingSafeMultiLanguageReturnValues,name,Context::GetStaticFieldID,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS3,AssumingSafeMultiLanguageReturnValues,name,Context::GetStaticMethodID,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS4,AssumingSafeMultiLanguageReturnValues,name,Context::GetMethodID,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS5,AssumingSafeMultiLanguageReturnValues,name,Context::FindClass,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp

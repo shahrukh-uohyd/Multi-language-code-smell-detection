@@ -1,0 +1,9 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,AssumingSafeMultiLanguageReturnValues,"com/adi/ADIManager",JvmTINativeMethodBind,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/ADI-master/adi_lib/adi/src/main/cpp/adi.cpp,adi.cpp
+CS2,AssumingSafeMultiLanguageReturnValues,"<init>",InitJniEnv,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/ADI-master/adi_lib/matrix-io-canary/src/main/cpp/io_canary_jni.cc,io_canary_jni.cc
+CS3,AssumingSafeMultiLanguageReturnValues,"packageCodePath",JvmTINativeMethodBind,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/ADI-master/adi_lib/adi/src/main/cpp/adi.cpp,adi.cpp
+CS4,AssumingSafeMultiLanguageReturnValues,"stackDepth",enableEvents,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/ADI-master/adi_lib/adi/src/main/cpp/adi.cpp,adi.cpp
+CS5,AssumingSafeMultiLanguageReturnValues,"add",InitJniEnv,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/ADI-master/adi_lib/matrix-io-canary/src/main/cpp/io_canary_jni.cc,io_canary_jni.cc
+CS6,AssumingSafeMultiLanguageReturnValues,"sampleIntervalMs",enableEvents,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/ADI-master/adi_lib/adi/src/main/cpp/adi.cpp,adi.cpp
+CS7,AssumingSafeMultiLanguageReturnValues,"java/util/ArrayList",InitJniEnv,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/ADI-master/adi_lib/matrix-io-canary/src/main/cpp/io_canary_jni.cc,io_canary_jni.cc
+CS8,AssumingSafeMultiLanguageReturnValues,"com/adi/ADIManager",JNI_OnLoad,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/ADI-master/adi_lib/adi/src/main/cpp/adi.cpp,adi.cpp

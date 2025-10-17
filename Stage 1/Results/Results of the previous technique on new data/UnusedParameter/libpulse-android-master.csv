@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedParameters,s,connectRecordStream,SourceOutput,com.harrcharr.pulse,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/java/com/harrcharr/pulse/SourceOutput.java,SourceOutput.java
+CS2,UnusedParameters,success,operationSuccess,PulseContext,com.harrcharr.pulse,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/java/com/harrcharr/pulse/PulseContext.java,PulseContext.java

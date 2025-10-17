@@ -1,0 +1,9 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementation,,getBulkCipherAlgorithmEnum3DES,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java,WolfSSL.java
+CS2,UnusedImplementation,,getBulkCipherAlgorithmEnumCAMELLIA,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java,WolfSSL.java
+CS3,UnusedImplementation,,debuggingOFF,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java,WolfSSL.java
+CS4,UnusedImplementation,,getWolfCryptFIPSCoreHash,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java,WolfSSL.java
+CS5,UnusedImplementation,,memsaveSessionCache,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java,WolfSSL.java
+CS6,UnusedImplementation,,getBulkCipherAlgorithmEnumCHACHA,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java,WolfSSL.java
+CS7,UnusedImplementation,,memrestoreSessionCache,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java,WolfSSL.java
+CS8,UnusedImplementation,,getSessionCacheMemsize,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/wolfssljni-master/src/java/com/wolfssl/WolfSSL.java,WolfSSL.java

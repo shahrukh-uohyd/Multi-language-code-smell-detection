@@ -1,0 +1,13 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,DoubleArrayElements,Context::GetDoubleArrayElements,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS2,MemoryManagementMismatch,StringCritical,Context::GetStringCritical,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS3,MemoryManagementMismatch,BooleanArrayElements,Context::GetBooleanArrayElements,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS4,MemoryManagementMismatch,IntArrayElements,Context::GetIntArrayElements,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS5,MemoryManagementMismatch,StringUTFChars,Context::GetStringUTFChars,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS6,MemoryManagementMismatch,ByteArrayElements,Context::GetByteArrayElements,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS7,MemoryManagementMismatch,CharArrayElements,Context::GetCharArrayElements,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS8,MemoryManagementMismatch,LongArrayElements,Context::GetLongArrayElements,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS9,MemoryManagementMismatch,FloatArrayElements,Context::GetFloatArrayElements,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS10,MemoryManagementMismatch,PrimitiveArrayCritical,Context::GetPrimitiveArrayCritical,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS11,MemoryManagementMismatch,StringChars,Context::GetStringChars,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp
+CS12,MemoryManagementMismatch,ShortArrayElements,Context::GetShortArrayElements,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/dedekind-MKL-master/src/main/cpp/dedekind-mkl/Context.cpp,Context.cpp

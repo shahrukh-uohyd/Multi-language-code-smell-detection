@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,ShortArrayElements,Android_JNI_OpenAudioDevice,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/SDL2-Ndk-Opengles-SampleApp-master/app/src/main/jni/SDL/src/core/android/SDL_android.c,SDL_android.c
+CS2,MemoryManagementMismatch,ByteArrayElements,Android_JNI_OpenAudioDevice,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/SDL2-Ndk-Opengles-SampleApp-master/app/src/main/jni/SDL/src/core/android/SDL_android.c,SDL_android.c

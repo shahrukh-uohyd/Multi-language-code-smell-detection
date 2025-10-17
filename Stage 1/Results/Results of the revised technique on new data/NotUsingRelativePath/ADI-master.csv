@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingRelativePath,"io-canary",loadJni,IOCanaryJniBridge,com.tencent.matrix.iocanary.core,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/ADI-master/adi_lib/matrix-io-canary/src/main/java/com/tencent/matrix/iocanary/core/IOCanaryJniBridge.java,IOCanaryJniBridge.java

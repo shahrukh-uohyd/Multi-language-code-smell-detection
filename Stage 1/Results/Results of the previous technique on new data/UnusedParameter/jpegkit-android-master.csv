@@ -1,0 +1,9 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedParameters,context,writeToExternalPublicDirectory,JpegKit,jpegkit,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/java/jpegkit/JpegKit.java,JpegKit.java
+CS2,UnusedParameters,position,getItemId,MainActivity,jpegkit.app,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/app/src/main/java/jpegkit/app/MainActivity.java,MainActivity.java
+CS3,UnusedParameters,format,surfaceChanged,JpegView,jpegkit,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/java/jpegkit/JpegView.java,JpegView.java
+CS4,UnusedParameters,flags,writeToParcel,JpegFile,jpegkit,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/java/jpegkit/JpegFile.java,JpegFile.java
+CS5,UnusedParameters,width,surfaceChanged,JpegView,jpegkit,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/java/jpegkit/JpegView.java,JpegView.java
+CS6,UnusedParameters,flags,writeToParcel,Jpeg,jpegkit,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/java/jpegkit/Jpeg.java,Jpeg.java
+CS7,UnusedParameters,height,surfaceChanged,JpegView,jpegkit,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/java/jpegkit/JpegView.java,JpegView.java
+CS8,UnusedParameters,surfaceHolder,surfaceDestroyed,JpegView,jpegkit,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/java/jpegkit/JpegView.java,JpegView.java

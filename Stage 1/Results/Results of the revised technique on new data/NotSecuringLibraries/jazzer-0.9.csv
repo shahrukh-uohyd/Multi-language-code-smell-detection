@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"native",,ExampleFuzzerWithNative,com.example,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/examples/src/main/java/com/example/ExampleFuzzerWithNative.java,ExampleFuzzerWithNative.java

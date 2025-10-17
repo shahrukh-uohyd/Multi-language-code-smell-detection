@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,explicitLibraryPath,loadExplicitLibrary,Platform,tel.schich.javacan.platform,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/JavaCAN-master/core/src/main/java/tel/schich/javacan/platform/Platform.java,Platform.java
+CS2,NotSecuringLibraries,name,loadNativeLibrary,Platform,tel.schich.javacan.platform,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/JavaCAN-master/core/src/main/java/tel/schich/javacan/platform/Platform.java,Platform.java
+CS3,NotSecuringLibraries,fsPath.toString(),loadFromClassPath,Platform,tel.schich.javacan.platform,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/JavaCAN-master/core/src/main/java/tel/schich/javacan/platform/Platform.java,Platform.java

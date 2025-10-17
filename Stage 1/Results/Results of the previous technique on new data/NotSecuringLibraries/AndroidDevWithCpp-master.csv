@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"aviplayer",,AviPlayer,com.glumes.cppso.aviplayer,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/AndroidDevWithCpp-master/cppso/src/main/java/com/glumes/cppso/aviplayer/AviPlayer.java,AviPlayer.java
+CS2,NotSecuringLibraries,"info-manger",,StudentInfoLoader,com.glumes.cppso.infomanager,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/AndroidDevWithCpp-master/cppso/src/main/java/com/glumes/cppso/infomanager/StudentInfoLoader.java,StudentInfoLoader.java
+CS3,NotSecuringLibraries,"native-operation",,BaseOperation,com.glumes.cppso.jnioperations,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/AndroidDevWithCpp-master/cppso/src/main/java/com/glumes/cppso/jnioperations/BaseOperation.java,BaseOperation.java

@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,put,LevelDb,com.github.vallez.leveldbjni,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/leveldbjni-master/library/src/com/github/vallez/leveldbjni/LevelDb.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,delete,LevelDb,com.github.vallez.leveldbjni,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/leveldbjni-master/library/src/com/github/vallez/leveldbjni/LevelDb.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,writeBatchNew,LevelDb,com.github.vallez.leveldbjni,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/leveldbjni-master/library/src/com/github/vallez/leveldbjni/LevelDb.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,writeBatchDelete,LevelDb,com.github.vallez.leveldbjni,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/leveldbjni-master/library/src/com/github/vallez/leveldbjni/LevelDb.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,writeBatchPut,LevelDb,com.github.vallez.leveldbjni,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/leveldbjni-master/library/src/com/github/vallez/leveldbjni/LevelDb.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,iteratorNew,LevelDb,com.github.vallez.leveldbjni,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/leveldbjni-master/library/src/com/github/vallez/leveldbjni/LevelDb.java

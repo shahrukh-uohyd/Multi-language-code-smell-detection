@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclaration,,matchLimit,TSQueryCursor,com.itsaky.androidide.treesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/android-tree-sitter/src/main/java/com/itsaky/androidide/treesitter/TSQueryCursor.java,TSQueryCursor.java

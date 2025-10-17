@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClusteringDetectio,,,Native,com.itsaky.androidide.treesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/android-tree-sitter/src/main/java/com/itsaky/androidide/treesitter/TSLanguage.java
+AP2,TooMuchClusteringDetectio,,,TSParser,com.itsaky.androidide.treesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/android-tree-sitter/src/main/java/com/itsaky/androidide/treesitter/TSParser.java
+AP3,TooMuchClusteringDetectio,,,TSLanguages,com.itsaky.androidide.treesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/android-tree-sitter/src/main/java/com/itsaky/androidide/treesitter/TSLanguages.java

@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,LocalReferencesAbuse,jclass,retransformClasses,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/ADI-master/adi_lib/adi/src/main/cpp/adi.cpp,adi.cpp
+CS2,LocalReferencesAbuse,classes[i],retransformClasses,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/ADI-master/adi_lib/adi/src/main/cpp/adi.cpp,adi.cpp

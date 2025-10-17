@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClustering,,,IbDiagPerfCounter,de.hhu.bsinfo.jdetector.lib,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/jdetector-master/src/main/java/de/hhu/bsinfo/jdetector/lib/IbDiagPerfCounter.java
+AP2,TooMuchClustering,,,IbPort,de.hhu.bsinfo.jdetector.lib,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/jdetector-master/src/main/java/de/hhu/bsinfo/jdetector/lib/IbPort.java
+AP3,TooMuchClustering,,,IbNode,de.hhu.bsinfo.jdetector.lib,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/jdetector-master/src/main/java/de/hhu/bsinfo/jdetector/lib/IbNode.java

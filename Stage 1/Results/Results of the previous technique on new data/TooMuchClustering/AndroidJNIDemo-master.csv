@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClustering,,,NativeLib,com.gavinandre.androidjnidemo,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/AndroidJNIDemo-master/app/src/main/java/com/gavinandre/androidjnidemo/NativeLib.java
+AP2,TooMuchClustering,,,UsbCameraLib,com.gavinandre.uvccameralibrary,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/AndroidJNIDemo-master/uvccameralibrary/src/main/java/com/gavinandre/uvccameralibrary/UsbCameraLib.java

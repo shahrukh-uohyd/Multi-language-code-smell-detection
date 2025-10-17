@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,setLogPath,NativeClient,com.jiuyan.faiss,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/faiss-center-master/faiss-client/src/main/java/com/jiuyan/faiss/NativeClient.java,NativeClient.java
+CS2,UnusedDeclarationDetectio,,switchLog,NativeClient,com.jiuyan.faiss,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/faiss-center-master/faiss-client/src/main/java/com/jiuyan/faiss/NativeClient.java,NativeClient.java

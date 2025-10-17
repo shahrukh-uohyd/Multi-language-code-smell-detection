@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClustering,,,PeerConnectionFactory,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/PeerConnectionFactory.java
+AP2,TooMuchClustering,,,RTCDataChannel,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/RTCDataChannel.java
+AP3,TooMuchClustering,,,RTCRtpTransceiver,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/RTCRtpTransceiver.java
+AP4,TooMuchClustering,,,AudioDeviceModule,dev.onvoid.webrtc.media.audio,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/media/audio/AudioDeviceModule.java
+AP5,TooMuchClustering,,,RTCPeerConnection,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/projects/projects/projects8/webrtc-java-0.2.0/webrtc/src/main/java/dev/onvoid/webrtc/RTCPeerConnection.java

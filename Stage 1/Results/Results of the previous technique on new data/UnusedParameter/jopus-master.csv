@@ -1,0 +1,150 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedParameters,c,silk_SMLAWT_armv5e,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/arm/macros_armv5e.h,macros_armv5e.h
+CS2,UnusedParameters,out_mem[],compute_inv_mdcts,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/celt/celt_decoder.c,celt_decoder.c
+CS3,UnusedParameters,xq[],silk_noise_shape_quantizer,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS4,UnusedParameters,a[ 2 ][ MAX_LPC_ORDER ],silk_residual_energy_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/residual_energy_FLP.c,residual_energy_FLP.c
+CS5,UnusedParameters,x_Q3[],silk_nsq_scale_states,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS6,UnusedParameters,Wght_Q15[ MAX_NB_SUBFR ],silk_find_LTP_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/find_LTP_FIX.c,find_LTP_FIX.c
+CS7,UnusedParameters,invGains[ MAX_NB_SUBFR ],silk_LTP_analysis_filter_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/LTP_analysis_filter_FLP.c,LTP_analysis_filter_FLP.c
+CS8,UnusedParameters,xq[],silk_noise_shape_quantizer_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS9,UnusedParameters,invGains_Q16[ MAX_NB_SUBFR ],silk_LTP_analysis_filter_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/LTP_analysis_filter_FIX.c,LTP_analysis_filter_FIX.c
+CS10,UnusedParameters,x[],silk_find_LPC_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/find_LPC_FLP.c,find_LPC_FLP.c
+CS11,UnusedParameters,gains[ MAX_NB_SUBFR ],silk_residual_energy_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/residual_energy_FIX.c,residual_energy_FIX.c
+CS12,UnusedParameters,s[],silk_LPC_analysis_filter12_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/LPC_analysis_filter_FLP.c,LPC_analysis_filter_FLP.c
+CS13,UnusedParameters,pitch_lags[],silk_decode_pitch,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/decode_pitch.c,decode_pitch.c
+CS14,UnusedParameters,res_pitch[],silk_find_pred_coefs_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/find_pred_coefs_FLP.c,find_pred_coefs_FLP.c
+CS15,UnusedParameters,a_Q12[],silk_noise_shape_quantizer,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS16,UnusedParameters,sLTP_Q15[],silk_nsq_scale_states,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS17,UnusedParameters,s[],silk_LPC_analysis_filter6_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/LPC_analysis_filter_FLP.c,LPC_analysis_filter_FLP.c
+CS18,UnusedParameters,LTPCoef_Q14[ LTP_ORDER * MAX_NB_SUBFR ],silk_LTP_analysis_filter_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/LTP_analysis_filter_FIX.c,LTP_analysis_filter_FIX.c
+CS19,UnusedParameters,res[],silk_find_pitch_lags_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/find_pitch_lags_FLP.c,find_pitch_lags_FLP.c
+CS20,UnusedParameters,xw[],silk_prefilter_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/prefilter_FLP.c,prefilter_FLP.c
+CS21,UnusedParameters,c,silk_MLA_armv4,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/arm/SigProc_FIX_armv4.h,SigProc_FIX_armv4.h
+CS22,UnusedParameters,sLTP[],silk_nsq_scale_states,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS23,UnusedParameters,Tilt_Q14[ MAX_NB_SUBFR ],silk_NSQ_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS24,UnusedParameters,sLTP_Q15[],silk_nsq_del_dec_scale_states,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS25,UnusedParameters,pitchL[   MAX_NB_SUBFR ],silk_LTP_analysis_filter_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/LTP_analysis_filter_FLP.c,LTP_analysis_filter_FLP.c
+CS26,UnusedParameters,prev_NLSF_Q15[ MAX_LPC_ORDER ],silk_process_NLSFs_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/wrappers_FLP.c,wrappers_FLP.c
+CS27,UnusedParameters,Gains_Q16[ MAX_NB_SUBFR ],silk_NSQ_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS28,UnusedParameters,a_Q12[],silk_noise_shape_quantizer_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS29,UnusedParameters,lag[ MAX_NB_SUBFR ],silk_find_LTP_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/find_LTP_FIX.c,find_LTP_FIX.c
+CS30,UnusedParameters,pitchL[ MAX_NB_SUBFR ],silk_nsq_del_dec_scale_states,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS31,UnusedParameters,pulses[],silk_NSQ_wrapper_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/wrappers_FLP.c,wrappers_FLP.c
+CS32,UnusedParameters,prev_NLSFq_Q15[    MAX_LPC_ORDER ],silk_process_NLSFs,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/process_NLSFs.c,process_NLSFs.c
+CS33,UnusedParameters,Gains_Q16[ MAX_NB_SUBFR ],silk_NSQ,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS34,UnusedParameters,frames[48],opus_packet_parse_impl,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/opus.c,opus.c
+CS35,UnusedParameters,s[],silk_LPC_analysis_filter10_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/LPC_analysis_filter_FLP.c,LPC_analysis_filter_FLP.c
+CS36,UnusedParameters,s[],silk_LPC_analysis_filter_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/LPC_analysis_filter_FLP.c,LPC_analysis_filter_FLP.c
+CS37,UnusedParameters,in[],silk_resampler_private_IIR_FIR,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/resampler_private_IIR_FIR.c,resampler_private_IIR_FIR.c
+CS38,UnusedParameters,Wght[ MAX_NB_SUBFR ],silk_find_LTP_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/find_LTP_FLP.c,find_LTP_FLP.c
+CS39,UnusedParameters,A_Q14[],silk_resampler_private_AR2,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/resampler_private_AR2.c,resampler_private_AR2.c
+CS40,UnusedParameters,AR2_Q13[ MAX_NB_SUBFR * MAX_SHAPE_LPC_ORDER ],silk_NSQ,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS41,UnusedParameters,c,silk_SMLABB_armv5e,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/arm/macros_armv5e.h,macros_armv5e.h
+CS42,UnusedParameters,NLSF_Q15[      MAX_LPC_ORDER ],silk_process_NLSFs_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/wrappers_FLP.c,wrappers_FLP.c
+CS43,UnusedParameters,in[],silk_resampler_private_AR2,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/resampler_private_AR2.c,resampler_private_AR2.c
+CS44,UnusedParameters,xw[],silk_prefilt_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/prefilter_FLP.c,prefilter_FLP.c
+CS45,UnusedParameters,B[ LTP_ORDER * MAX_NB_SUBFR ],silk_LTP_analysis_filter_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/LTP_analysis_filter_FLP.c,LTP_analysis_filter_FLP.c
+CS46,UnusedParameters,sLTP_Q15[],silk_noise_shape_quantizer,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS47,UnusedParameters,Tilt_Q14[ MAX_NB_SUBFR ],silk_NSQ,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS48,UnusedParameters,W_Q18[ MAX_NB_SUBFR*LTP_ORDER*LTP_ORDER ],silk_quant_LTP_gains,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/quant_LTP_gains.c,quant_LTP_gains.c
+CS49,UnusedParameters,b_Q14[],silk_noise_shape_quantizer_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS50,UnusedParameters,pNLSF_Q15[         MAX_LPC_ORDER ],silk_process_NLSFs,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/process_NLSFs.c,process_NLSFs.c
+CS51,UnusedParameters,pitchL[ MAX_NB_SUBFR ],silk_NSQ_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS52,UnusedParameters,pulses[ MAX_FRAME_LENGTH ],silk_decode_core,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/decode_core.c,decode_core.c
+CS53,UnusedParameters,lag[  MAX_NB_SUBFR ],silk_find_LTP_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/find_LTP_FLP.c,find_LTP_FLP.c
+CS54,UnusedParameters,x[],silk_find_pitch_lags_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/find_pitch_lags_FIX.c,find_pitch_lags_FIX.c
+CS55,UnusedParameters,xw_Q3[],silk_prefilter_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/prefilter_FIX.c,prefilter_FIX.c
+CS56,UnusedParameters,x[],silk_burg_modified,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/burg_modified_FIX.c,burg_modified_FIX.c
+CS57,UnusedParameters,pulses[],silk_noise_shape_quantizer_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS58,UnusedParameters,LF_shp_Q14[ MAX_NB_SUBFR ],silk_NSQ_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS59,UnusedParameters,xq[],silk_decode_core,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/decode_core.c,decode_core.c
+CS60,UnusedParameters,AR_shp_Q13[],silk_noise_shape_quantizer,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS61,UnusedParameters,corr_rshifts[ MAX_NB_SUBFR ],silk_find_LTP_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/find_LTP_FIX.c,find_LTP_FIX.c
+CS62,UnusedParameters,coef[],silk_warped_LPC_analysis_filter_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/prefilter_FLP.c,prefilter_FLP.c
+CS63,UnusedParameters,x1[ MAX_LPC_ORDER ],silk_interpolate,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/interpolate.c,interpolate.c
+CS64,UnusedParameters,sum_pulses[ MAX_NB_SHELL_BLOCKS ],silk_decode_signs,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/code_signs.c,code_signs.c
+CS65,UnusedParameters,x[],silk_NSQ_wrapper_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/wrappers_FLP.c,wrappers_FLP.c
+CS66,UnusedParameters,pCB_Q8[],silk_NLSF_VQ,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NLSF_VQ.c,NLSF_VQ.c
+CS67,UnusedParameters,LTPCoef_Q14[ LTP_ORDER * MAX_NB_SUBFR ],silk_NSQ_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS68,UnusedParameters,c,silk_SMLATT_armv5e,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/arm/SigProc_FIX_armv5e.h,SigProc_FIX_armv5e.h
+CS69,UnusedParameters,frames[48],opus_packet_parse,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/opus.c,opus.c
+CS70,UnusedParameters,x[],silk_prefilter_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/prefilter_FLP.c,prefilter_FLP.c
+CS71,UnusedParameters,c,silk_SMLABT_armv5e,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/arm/macros_armv5e.h,macros_armv5e.h
+CS72,UnusedParameters,b,MAC16_16_armv5e,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/celt/arm/fixed_armv5e.h,fixed_armv5e.h
+CS73,UnusedParameters,pulses[],silk_NSQ,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS74,UnusedParameters,sLTP[],silk_nsq_del_dec_scale_states,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS75,UnusedParameters,LTPCoef_Q14[ LTP_ORDER * MAX_NB_SUBFR ],silk_NSQ,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS76,UnusedParameters,psDelDec[],silk_nsq_del_dec_scale_states,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS77,UnusedParameters,x[],silk_find_pred_coefs_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/find_pred_coefs_FLP.c,find_pred_coefs_FLP.c
+CS78,UnusedParameters,gains[],silk_residual_energy_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/residual_energy_FLP.c,residual_energy_FLP.c
+CS79,UnusedParameters,A_Q16[],silk_burg_modified,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/burg_modified_FIX.c,burg_modified_FIX.c
+CS80,UnusedParameters,r_lpc[],silk_find_LTP_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/find_LTP_FLP.c,find_LTP_FLP.c
+CS81,UnusedParameters,HarmShapeGain_Q14[ MAX_NB_SUBFR ],silk_NSQ_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS82,UnusedParameters,ec_ix[],silk_NLSF_del_dec_quant,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NLSF_del_dec_quant.c,NLSF_del_dec_quant.c
+CS83,UnusedParameters,sum_pulses[ MAX_NB_SHELL_BLOCKS ],silk_encode_signs,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/code_signs.c,code_signs.c
+CS84,UnusedParameters,x2[],silk_stereo_MS_to_LR,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/stereo_MS_to_LR.c,stereo_MS_to_LR.c
+CS85,UnusedParameters,pulses[],silk_NSQ_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS86,UnusedParameters,xfw[],silk_LBRR_encode_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/encode_frame_FLP.c,encode_frame_FLP.c
+CS87,UnusedParameters,HarmShapeGain_Q14[ MAX_NB_SUBFR ],silk_NSQ,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS88,UnusedParameters,input[],silk_warped_LPC_analysis_filter_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/prefilter_FIX.c,prefilter_FIX.c
+CS89,UnusedParameters,in[],silk_resampler_private_down_FIR,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/resampler_private_down_FIR.c,resampler_private_down_FIR.c
+CS90,UnusedParameters,frame[],silk_PLC_conceal,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/PLC.c,PLC.c
+CS91,UnusedParameters,pred_Q13[],silk_stereo_MS_to_LR,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/stereo_MS_to_LR.c,stereo_MS_to_LR.c
+CS92,UnusedParameters,PredCoef_Q12[ 2 * MAX_LPC_ORDER ],silk_NSQ_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS93,UnusedParameters,x_Q3[],silk_NSQ,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS94,UnusedParameters,pitchL[ MAX_NB_SUBFR ],silk_nsq_scale_states,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS95,UnusedParameters,pitchL[ MAX_NB_SUBFR ],silk_LTP_analysis_filter_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/LTP_analysis_filter_FIX.c,LTP_analysis_filter_FIX.c
+CS96,UnusedParameters,x[],silk_find_pitch_lags_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/find_pitch_lags_FLP.c,find_pitch_lags_FLP.c
+CS97,UnusedParameters,w_Q5[],silk_NLSF_del_dec_quant,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NLSF_del_dec_quant.c,NLSF_del_dec_quant.c
+CS98,UnusedParameters,s[],silk_LPC_analysis_filter16_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/LPC_analysis_filter_FLP.c,LPC_analysis_filter_FLP.c
+CS99,UnusedParameters,x_Q10[],silk_noise_shape_quantizer_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS100,UnusedParameters,x_Q3[],silk_NSQ_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS101,UnusedParameters,pred_coef_Q8[],silk_NLSF_residual_dequant,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NLSF_decode.c,NLSF_decode.c
+CS102,UnusedParameters,packet,isPossiblePacket,OpusHeader,org.echocat.jopus,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/java/org/echocat/jopus/OpusHeader.java,OpusHeader.java
+CS103,UnusedParameters,PredCoef_Q12[ 2 * MAX_LPC_ORDER ],silk_NSQ,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS104,UnusedParameters,c,silk_SMLAWB_armv5e,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/arm/macros_armv5e.h,macros_armv5e.h
+CS105,UnusedParameters,in[],silk_resampler,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/resampler.c,resampler.c
+CS106,UnusedParameters,x[],silk_prefilter_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/prefilter_FIX.c,prefilter_FIX.c
+CS107,UnusedParameters,ec_rates_Q5[],silk_NLSF_del_dec_quant,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NLSF_del_dec_quant.c,NLSF_del_dec_quant.c
+CS108,UnusedParameters,b_Q14[],silk_noise_shape_quantizer,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS109,UnusedParameters,x2[],silk_stereo_LR_to_MS,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/stereo_LR_to_MS.c,stereo_LR_to_MS.c
+CS110,UnusedParameters,res_pitch[],silk_find_pred_coefs_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/find_pred_coefs_FIX.c,find_pred_coefs_FIX.c
+CS111,UnusedParameters,x_sc_Q10[],silk_noise_shape_quantizer,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS112,UnusedParameters,pitchL[ MAX_NB_SUBFR ],silk_NSQ,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS113,UnusedParameters,pOut[],silk_decode_frame,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/decode_frame.c,decode_frame.c
+CS114,UnusedParameters,c,silk_SMLAWW_armv4,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/arm/macros_armv4.h,macros_armv4.h
+CS115,UnusedParameters,size[48],opus_packet_parse_impl,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/opus.c,opus.c
+CS116,UnusedParameters,x_Q3[],silk_nsq_del_dec_scale_states,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS117,UnusedParameters,AR_shp_Q13[],silk_noise_shape_quantizer_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS118,UnusedParameters,s[],silk_LPC_analysis_filter8_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/LPC_analysis_filter_FLP.c,LPC_analysis_filter_FLP.c
+CS119,UnusedParameters,mid_res_amp_Q0[],silk_stereo_find_predictor,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/stereo_find_predictor.c,stereo_find_predictor.c
+CS120,UnusedParameters,x[],silk_find_pred_coefs_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/find_pred_coefs_FIX.c,find_pred_coefs_FIX.c
+CS121,UnusedParameters,W[ MAX_NB_SUBFR * LTP_ORDER * LTP_ORDER ],silk_quant_LTP_gains_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/wrappers_FLP.c,wrappers_FLP.c
+CS122,UnusedParameters,x[],silk_find_LPC_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/find_LPC_FIX.c,find_LPC_FIX.c
+CS123,UnusedParameters,r_lpc[],silk_find_LTP_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/find_LTP_FIX.c,find_LTP_FIX.c
+CS124,UnusedParameters,pulses[],silk_encode_pulses,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/encode_pulses.c,encode_pulses.c
+CS125,UnusedParameters,frame[],silk_PLC,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/PLC.c,PLC.c
+CS126,UnusedParameters,x_sc_Q10[],silk_nsq_del_dec_scale_states,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS127,UnusedParameters,sum[4],xcorr_kernel,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/celt/pitch.h,pitch.h
+CS128,UnusedParameters,y[],silk_stereo_find_predictor,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/stereo_find_predictor.c,stereo_find_predictor.c
+CS129,UnusedParameters,sLTP_Q15[],silk_noise_shape_quantizer_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS130,UnusedParameters,pred_coef_Q8[],silk_NLSF_del_dec_quant,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NLSF_del_dec_quant.c,NLSF_del_dec_quant.c
+CS131,UnusedParameters,xw_Q3[],silk_prefilt_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/prefilter_FIX.c,prefilter_FIX.c
+CS132,UnusedParameters,delayedGain_Q10[],silk_noise_shape_quantizer_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS133,UnusedParameters,Gains_Q16[ MAX_NB_SUBFR ],silk_nsq_del_dec_scale_states,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS134,UnusedParameters,res[],silk_find_pitch_lags_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/find_pitch_lags_FIX.c,find_pitch_lags_FIX.c
+CS135,UnusedParameters,xfw_Q3[],silk_LBRR_encode_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/encode_frame_FIX.c,encode_frame_FIX.c
+CS136,UnusedParameters,pulses[],silk_noise_shape_quantizer,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS137,UnusedParameters,coef_Q13[],silk_warped_LPC_analysis_filter_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/prefilter_FIX.c,prefilter_FIX.c
+CS138,UnusedParameters,b,MAC16_32_Q15_armv5e,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/celt/arm/fixed_armv5e.h,fixed_armv5e.h
+CS139,UnusedParameters,ix[ 2 ][ 3 ],silk_stereo_LR_to_MS,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/stereo_LR_to_MS.c,stereo_LR_to_MS.c
+CS140,UnusedParameters,x[],silk_residual_energy_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/residual_energy_FIX.c,residual_energy_FIX.c
+CS141,UnusedParameters,mid_side_rates_bps[],silk_stereo_LR_to_MS,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/stereo_LR_to_MS.c,stereo_LR_to_MS.c
+CS142,UnusedParameters,a_Q12[ 2 ][ MAX_LPC_ORDER ],silk_residual_energy_FIX,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/fixed/residual_energy_FIX.c,residual_energy_FIX.c
+CS143,UnusedParameters,size[48],opus_packet_parse,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/opus.c,opus.c
+CS144,UnusedParameters,x_sc_Q10[],silk_nsq_scale_states,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS145,UnusedParameters,input[],silk_warped_LPC_analysis_filter_FLP,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/float/prefilter_FLP.c,prefilter_FLP.c
+CS146,UnusedParameters,frame[],silk_CNG,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/CNG.c,CNG.c
+CS147,UnusedParameters,LF_shp_Q14[ MAX_NB_SUBFR ],silk_NSQ,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c
+CS148,UnusedParameters,AR2_Q13[ MAX_NB_SUBFR * MAX_SHAPE_LPC_ORDER ],silk_NSQ_del_dec,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ_del_dec.c,NSQ_del_dec.c
+CS149,UnusedParameters,Gains_Q16[ MAX_NB_SUBFR ],silk_nsq_scale_states,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/c/opus/silk/NSQ.c,NSQ.c

@@ -1,0 +1,9 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,zmq_connect,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,zmq_errno,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,zmq_recv,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,zmq_close,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,zmq_ctx_destroy,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,zmq_bind,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java
+AP7,ExcessiveInterLanguageCommunicationDetectio,,zmq_socket,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java
+AP8,ExcessiveInterLanguageCommunicationDetectio,,zmq_strerror,ZMQ,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/ZMQ.java

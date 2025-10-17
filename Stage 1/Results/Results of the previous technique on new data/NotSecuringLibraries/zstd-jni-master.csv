@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,libnameShort,load,,com.github.luben.zstd.util,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/util/Native.java,Native.java
+CS2,NotSecuringLibraries,libname,load,,com.github.luben.zstd.util,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/util/Native.java,Native.java
+CS3,NotSecuringLibraries,tempLib.getAbsolutePath(),load,,com.github.luben.zstd.util,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/util/Native.java,Native.java
+CS4,NotSecuringLibraries,overridePath,load,,com.github.luben.zstd.util,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zstd-jni-master/src/main/java/com/github/luben/zstd/util/Native.java,Native.java

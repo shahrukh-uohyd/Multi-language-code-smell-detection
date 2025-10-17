@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedParameters,error,Java_pl_pitcer_janot_notify_NativeNotification_show,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/janot-master/janot-native/src/pl_pitcer_janot_notify_NativeNotification.c,pl_pitcer_janot_notify_NativeNotification.c
+CS2,UnusedParameters,error,Java_pl_pitcer_janot_notify_NativeNotification_close,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/janot-master/janot-native/src/pl_pitcer_janot_notify_NativeNotification.c,pl_pitcer_janot_notify_NativeNotification.c

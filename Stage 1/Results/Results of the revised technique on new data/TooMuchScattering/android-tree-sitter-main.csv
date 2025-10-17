@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,Native,com.itsaky.androidide.treesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/android-tree-sitter/src/main/java/com/itsaky/androidide/treesitter/TSQuery.java
+AP2,TooMuchScatteringDetectio,,,TreeSitter,com.itsaky.androidide.treesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/android-tree-sitter/src/main/java/com/itsaky/androidide/treesitter/TreeSitter.java

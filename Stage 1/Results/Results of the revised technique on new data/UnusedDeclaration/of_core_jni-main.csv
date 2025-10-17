@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,getMyAddresses,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS2,UnusedDeclarationDetectio,,getAuthenticationMode,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS3,UnusedDeclarationDetectio,,setAuthenticationMode,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java
+CS4,UnusedDeclarationDetectio,,addProxyGateway,Framework,com.connectedway.io,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/of_core_jni-main/java/com/connectedway/io/Framework.java,Framework.java

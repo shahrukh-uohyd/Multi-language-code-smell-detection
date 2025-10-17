@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,StringUTFChars,Java_com_mapzen_jpostal_AddressExpander_setupDataDir,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/jpostal-master/src/main/c/jpostal_AddressExpander.c,jpostal_AddressExpander.c
+CS2,MemoryManagementMismatch,StringUTFChars,Java_com_mapzen_jpostal_AddressParser_setupDataDir,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/jpostal-master/src/main/c/jpostal_AddressParser.c,jpostal_AddressParser.c

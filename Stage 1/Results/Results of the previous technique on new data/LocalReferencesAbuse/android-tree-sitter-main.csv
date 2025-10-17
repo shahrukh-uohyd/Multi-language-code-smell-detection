@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,LocalReferencesAbuse,tsRanges[i],Java_com_itsaky_androidide_treesitter_TSParser_00024Native_setIncludedRanges,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/lib/ts_parser.cc,ts_parser.cc

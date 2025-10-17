@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"stringutils",,StringUtils,com.panda912.jnidemo.string,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JniDemo-master/app/src/main/java/com/panda912/jnidemo/string/StringUtils.java,StringUtils.java
+CS2,NotSecuringLibraries,"blur_sof",,StackoverflowBlur,com.panda912.jnidemo.blur,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JniDemo-master/app/src/main/java/com/panda912/jnidemo/blur/StackoverflowBlur.java,StackoverflowBlur.java
+CS3,NotSecuringLibraries,"native-lib",,JniUtils,com.panda912.jnidemo,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JniDemo-master/app/src/main/java/com/panda912/jnidemo/JniUtils.java,JniUtils.java
+CS4,NotSecuringLibraries,"bitmapblur",,NativeBlur,com.panda912.jnidemo.blur,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JniDemo-master/app/src/main/java/com/panda912/jnidemo/blur/NativeBlur.java,NativeBlur.java
+CS5,NotSecuringLibraries,"mycrypto",,Crypto,com.panda912.jnidemo.crypto,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JniDemo-master/app/src/main/java/com/panda912/jnidemo/crypto/Crypto.java,Crypto.java

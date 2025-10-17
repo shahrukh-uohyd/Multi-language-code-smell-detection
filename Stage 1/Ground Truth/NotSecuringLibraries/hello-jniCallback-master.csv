@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"hello-jnicallback",,MainActivity,com.example.hello_jnicallback,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/app/src/main/java/com/example/hello_jnicallback/MainActivity.java,MainActivity.java
+CS2,NotSecuringLibraries,"http",,Http,com.bb_sz.ndk.http,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/appForkHttp/src/main/java/com/bb_sz/ndk/http/Http.java,Http.java
+CS3,NotSecuringLibraries,"sz_shell_x",shellFixApplication,NdkUtil,com.bb_sz.ndk,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/appForkShell_x/src/main/java/com/bb_sz/ndk/NdkUtil.java,NdkUtil.java
+CS4,NotSecuringLibraries,"sz_shell_a",attachBaseContext,App,com.bb_sz.ndk,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/appForkShell_a/src/main/java/com/bb_sz/ndk/App.java,App.java
+CS5,NotSecuringLibraries,"sz_shell_a",setLoaderPath,NdkUtil,com.bb_sz.ndk,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/hello-jniCallback-master/appForkShell_x/src/main/java/com/bb_sz/ndk/NdkUtil.java,NdkUtil.java

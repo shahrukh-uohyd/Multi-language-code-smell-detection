@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementation,,getPrivateKeyReadEnable,Fips,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/wolfcrypt-jni-master/src/main/java/com/wolfssl/wolfcrypt/Fips.java,Fips.java
+CS2,UnusedImplementation,,InitDhKey,Fips,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/wolfcrypt-jni-master/src/main/java/com/wolfssl/wolfcrypt/Fips.java,Fips.java
+CS3,UnusedImplementation,,FreeDhKey,Fips,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/projects/projects/projects10/wolfcrypt-jni-master/src/main/java/com/wolfssl/wolfcrypt/Fips.java,Fips.java

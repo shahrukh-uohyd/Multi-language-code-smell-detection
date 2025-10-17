@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"onMessage",on_message,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/ndk-someiplib-main/ndk-vsomeip/someiplib/src/main/cpp/VSomeIPClientJNI.cpp,VSomeIPClientJNI.cpp
+CS2,NotHandlingExceptions,"onAvailability",on_availability,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/ndk-someiplib-main/ndk-vsomeip/someiplib/src/main/cpp/VSomeIPClientJNI.cpp,VSomeIPClientJNI.cpp

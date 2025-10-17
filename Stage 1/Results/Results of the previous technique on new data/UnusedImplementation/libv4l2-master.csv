@@ -1,0 +1,14 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementation,,streamoff,V4L2,com.tuyou.tsd.common.v4l2,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/libv4l2-master/src/main/java/com/tuyou/tsd/common/v4l2/V4L2.java,V4L2.java
+CS2,UnusedImplementation,,initmmap,V4L2,com.tuyou.tsd.common.v4l2,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/libv4l2-master/src/main/java/com/tuyou/tsd/common/v4l2/V4L2.java,V4L2.java
+CS3,UnusedImplementation,,queryCropCapability,V4L2,com.tuyou.tsd.common.v4l2,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/libv4l2-master/src/main/java/com/tuyou/tsd/common/v4l2/V4L2.java,V4L2.java
+CS4,UnusedImplementation,,setCrop,V4L2,com.tuyou.tsd.common.v4l2,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/libv4l2-master/src/main/java/com/tuyou/tsd/common/v4l2/V4L2.java,V4L2.java
+CS5,UnusedImplementation,,queryFormat,V4L2,com.tuyou.tsd.common.v4l2,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/libv4l2-master/src/main/java/com/tuyou/tsd/common/v4l2/V4L2.java,V4L2.java
+CS6,UnusedImplementation,,readFrame,V4L2,com.tuyou.tsd.common.v4l2,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/libv4l2-master/src/main/java/com/tuyou/tsd/common/v4l2/V4L2.java,V4L2.java
+CS7,UnusedImplementation,,streamon,V4L2,com.tuyou.tsd.common.v4l2,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/libv4l2-master/src/main/java/com/tuyou/tsd/common/v4l2/V4L2.java,V4L2.java
+CS8,UnusedImplementation,,setFormat,V4L2,com.tuyou.tsd.common.v4l2,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/libv4l2-master/src/main/java/com/tuyou/tsd/common/v4l2/V4L2.java,V4L2.java
+CS9,UnusedImplementation,,uninitmmap,V4L2,com.tuyou.tsd.common.v4l2,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/libv4l2-master/src/main/java/com/tuyou/tsd/common/v4l2/V4L2.java,V4L2.java
+CS10,UnusedImplementation,,getCrop,V4L2,com.tuyou.tsd.common.v4l2,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/libv4l2-master/src/main/java/com/tuyou/tsd/common/v4l2/V4L2.java,V4L2.java
+CS11,UnusedImplementation,,openDevice,V4L2,com.tuyou.tsd.common.v4l2,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/libv4l2-master/src/main/java/com/tuyou/tsd/common/v4l2/V4L2.java,V4L2.java
+CS12,UnusedImplementation,,closeDevice,V4L2,com.tuyou.tsd.common.v4l2,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/libv4l2-master/src/main/java/com/tuyou/tsd/common/v4l2/V4L2.java,V4L2.java
+CS13,UnusedImplementation,,queryCapability,V4L2,com.tuyou.tsd.common.v4l2,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/libv4l2-master/src/main/java/com/tuyou/tsd/common/v4l2/V4L2.java,V4L2.java

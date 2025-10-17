@@ -1,0 +1,21 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunication,,paIsStreamStopped,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP2,ExcessiveInterLanguageCommunication,,paOpenDefaultStream,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP3,ExcessiveInterLanguageCommunication,,enableThreadDetach,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP4,ExcessiveInterLanguageCommunication,,paIsStreamActive,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP5,ExcessiveInterLanguageCommunication,,paInitialize,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP6,ExcessiveInterLanguageCommunication,,paTerminate,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP7,ExcessiveInterLanguageCommunication,,paStartStream,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP8,ExcessiveInterLanguageCommunication,,dataAlloc,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP9,ExcessiveInterLanguageCommunication,,paIsFormatSupported,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP10,ExcessiveInterLanguageCommunication,,paStopStream,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP11,ExcessiveInterLanguageCommunication,,paOpenStream,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP12,ExcessiveInterLanguageCommunication,,paAbortStream,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP13,ExcessiveInterLanguageCommunication,,paGetErrorText,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP14,ExcessiveInterLanguageCommunication,,paGetSampleSize,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP15,ExcessiveInterLanguageCommunication,,paGetStreamInfo,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP16,ExcessiveInterLanguageCommunication,,dataFree,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP17,ExcessiveInterLanguageCommunication,,paCloseStream,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP18,ExcessiveInterLanguageCommunication,,paGetStreamTime,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP19,ExcessiveInterLanguageCommunication,,sleep,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java
+AP20,ExcessiveInterLanguageCommunication,,paGetStreamCpuLoad,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java

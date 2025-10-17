@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClustering,,,NativeAudio,com.example.nativeaudio,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/ndk-master/native-audio/src/main/java/com/example/nativeaudio/NativeAudio.java
+AP2,TooMuchClustering,,,MainActivity,com.google.sample.echo,/home/shahrukh/smellDetection/Detection/projects/projects/projects6/ndk-master/audio-echo/src/main/java/com/google/sample/echo/MainActivity.java

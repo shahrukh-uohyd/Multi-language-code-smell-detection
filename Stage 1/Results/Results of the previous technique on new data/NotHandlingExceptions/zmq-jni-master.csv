@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"position",Java_org_zeromq_jni_ZMQ_nativeInit,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/c++/zmq.cpp,zmq.cpp
+CS2,NotHandlingExceptions,"flip",Java_org_zeromq_jni_ZMQ_nativeInit,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/c++/zmq.cpp,zmq.cpp
+CS3,NotHandlingExceptions,"java/nio/CharBuffer",Java_org_zeromq_jni_ZMQ_nativeInit,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/c++/zmq.cpp,zmq.cpp
+CS4,NotHandlingExceptions,"put",Java_org_zeromq_jni_ZMQ_nativeInit,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/c++/zmq.cpp,zmq.cpp
+CS5,NotHandlingExceptions,"java/nio/ByteBuffer",Java_org_zeromq_jni_ZMQ_nativeInit,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/c++/zmq.cpp,zmq.cpp
+CS6,NotHandlingExceptions,"limit",Java_org_zeromq_jni_ZMQ_nativeInit,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/c++/zmq.cpp,zmq.cpp

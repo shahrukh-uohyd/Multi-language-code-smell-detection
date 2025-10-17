@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,StringUTFChars,Java_com_github_vallez_leveldbjni_LevelDb_open,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/leveldbjni-master/library/cpp/com_github_vallez_leveldbjni_LevelDb.cpp,com_github_vallez_leveldbjni_LevelDb.cpp

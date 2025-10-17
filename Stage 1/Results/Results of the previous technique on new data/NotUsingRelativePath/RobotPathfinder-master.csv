@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingRelativePath,"RobotPathfinder",load,GlobalLibraryLoader,com.arctos6135.robotpathfinder.core,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/RobotPathfinder-master/src/main/java/com/arctos6135/robotpathfinder/core/GlobalLibraryLoader.java,GlobalLibraryLoader.java
+CS2,NotUsingRelativePath,"user.dir",load,GlobalLibraryLoader,com.arctos6135.robotpathfinder.core,/home/shahrukh/smellDetection/Detection/projects/projects/projects2/RobotPathfinder-master/src/main/java/com/arctos6135/robotpathfinder/core/GlobalLibraryLoader.java,GlobalLibraryLoader.java

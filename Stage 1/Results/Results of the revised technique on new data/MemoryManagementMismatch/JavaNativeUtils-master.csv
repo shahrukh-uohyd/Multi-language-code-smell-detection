@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,ByteArrayElements,Java_io_github_alexanderschuetz97_nativeutils_impl_JNILinuxNativeUtil_parseCMSG_1HDR,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/JavaNativeUtils-master/src/main/native/linux/sock.c,sock.c
+CS2,MemoryManagementMismatch,ByteArrayElements,handle_msg,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/JavaNativeUtils-master/src/main/native/linux/sock.c,sock.c

@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingRelativePath,"IPC",,Message,com.mittudev.ipc,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/ipc-master/jni/com/mittudev/ipc/Message.java,Message.java
+CS2,NotUsingRelativePath,"IPC",,Connection,com.mittudev.ipc,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/ipc-master/jni/com/mittudev/ipc/Connection.java,Connection.java

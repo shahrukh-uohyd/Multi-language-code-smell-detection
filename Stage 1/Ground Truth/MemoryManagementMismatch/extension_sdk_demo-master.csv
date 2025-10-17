@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,StringUTFChars,Java_com_example_extension_1sdk_1demo_jni_ExtensionSdkDemoApiJni_callJniApi,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/extension_sdk_demo-master/sdk/cpp/java/ExtensionSdkDemoApiJava.cpp,ExtensionSdkDemoApiJava.cpp
+CS2,MemoryManagementMismatch,StringUTFChars,ExtSdkApi::callCoreApi,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/extension_sdk_demo-master/sdk/cpp/test4/core/ExtSdkApi.cpp,ExtSdkApi.cpp
+CS3,MemoryManagementMismatch,StringUTFChars,Java_com_example_extension_1sdk_1demo_test4_jni_ExtSdkApiJni_callJniApi,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/extension_sdk_demo-master/sdk/cpp/test4/java/ExtSdkApiJni.cpp,ExtSdkApiJni.cpp
+CS4,MemoryManagementMismatch,StringUTFChars,Java_com_example_extension_1sdk_1demo_test4_jni_ExtSdkCallbackJniR_nativeSuccess,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects5/extension_sdk_demo-master/sdk/cpp/test4/java/ExtSdkCallback.cpp,ExtSdkCallback.cpp

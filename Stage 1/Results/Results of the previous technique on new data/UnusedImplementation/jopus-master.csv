@@ -1,0 +1,10 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementation,,getNumberOfChannelsOfPacket,OpusUtilsJNI,org.echocat.jopus,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/java/org/echocat/jopus/OpusUtilsJNI.java,OpusUtilsJNI.java
+CS2,UnusedImplementation,,encodeFloat,OpusEncoderJNI,org.echocat.jopus,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/java/org/echocat/jopus/OpusEncoderJNI.java,OpusEncoderJNI.java
+CS3,UnusedImplementation,,getNumberOfSamplesOfPacket,OpusUtilsJNI,org.echocat.jopus,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/java/org/echocat/jopus/OpusUtilsJNI.java,OpusUtilsJNI.java
+CS4,UnusedImplementation,,getNumberOfFramesOfPacket,OpusUtilsJNI,org.echocat.jopus,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/java/org/echocat/jopus/OpusUtilsJNI.java,OpusUtilsJNI.java
+CS5,UnusedImplementation,,getSamplesPerFrameOfPacket,OpusUtilsJNI,org.echocat.jopus,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/java/org/echocat/jopus/OpusUtilsJNI.java,OpusUtilsJNI.java
+CS6,UnusedImplementation,,getBandwidthOfPacket,OpusUtilsJNI,org.echocat.jopus,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/java/org/echocat/jopus/OpusUtilsJNI.java,OpusUtilsJNI.java
+CS7,UnusedImplementation,,decodeFloat,OpusRepacketizerJNI,org.echocat.jopus,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/java/org/echocat/jopus/OpusRepacketizerJNI.java,OpusRepacketizerJNI.java
+CS8,UnusedImplementation,,applyPcmSoftClipping,OpusUtilsJNI,org.echocat.jopus,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/java/org/echocat/jopus/OpusUtilsJNI.java,OpusUtilsJNI.java
+CS9,UnusedImplementation,,getErrorStringForErrorCode,OpusUtilsJNI,org.echocat.jopus,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jopus-master/src/main/java/org/echocat/jopus/OpusUtilsJNI.java,OpusUtilsJNI.java

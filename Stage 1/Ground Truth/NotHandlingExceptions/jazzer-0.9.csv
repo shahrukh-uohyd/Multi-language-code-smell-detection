@@ -1,0 +1,14 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,std::runtime_error,,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/driver/jvm_tooling_test.cpp,jvm_tooling_test.cpp
+CS2,NotHandlingExceptions,kRecordingFuzzedDataProviderClass,SerializeRecordingFuzzedDataProvider,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/driver/fuzzed_data_provider.cpp,fuzzed_data_provider.cpp
+CS3,NotHandlingExceptions,kRecordingFuzzedDataProviderClass,GetRecordingFuzzedDataProviderJavaObject,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/driver/fuzzed_data_provider.cpp,fuzzed_data_provider.cpp
+CS4,NotHandlingExceptions,"test.ModifiedUtf8Encoder",,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/driver/fuzzed_data_provider_test.cpp,fuzzed_data_provider_test.cpp
+CS5,NotHandlingExceptions,"<init>",GetFuzzedDataProviderJavaObject,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/driver/fuzzed_data_provider.cpp,fuzzed_data_provider.cpp
+CS6,NotHandlingExceptions,"makeFuzzedDataProviderProxy",GetRecordingFuzzedDataProviderJavaObject,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/driver/fuzzed_data_provider.cpp,fuzzed_data_provider.cpp
+CS7,NotHandlingExceptions,"java.lang.IllegalArgumentException",TriggerJvmException,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/driver/jvm_tooling_test.cpp,jvm_tooling_test.cpp
+CS8,NotHandlingExceptions,"encode",,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/driver/fuzzed_data_provider_test.cpp,fuzzed_data_provider_test.cpp
+CS9,NotHandlingExceptions,nullptr,,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/driver/jvm_tooling_test.cpp,jvm_tooling_test.cpp
+CS10,NotHandlingExceptions,"test.PropertyPrinter",,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/driver/jvm_tooling_test.cpp,jvm_tooling_test.cpp
+CS11,NotHandlingExceptions,kFuzzedDataProviderImplClass,GetFuzzedDataProviderJavaObject,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/driver/fuzzed_data_provider.cpp,fuzzed_data_provider.cpp
+CS12,NotHandlingExceptions,"serializeFuzzedDataProviderProxy",SerializeRecordingFuzzedDataProvider,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/driver/fuzzed_data_provider.cpp,fuzzed_data_provider.cpp
+CS13,NotHandlingExceptions,"printProperty",,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/jazzer-0.9/driver/jvm_tooling_test.cpp,jvm_tooling_test.cpp

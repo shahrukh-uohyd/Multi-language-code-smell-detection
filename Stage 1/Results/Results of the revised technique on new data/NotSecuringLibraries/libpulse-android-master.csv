@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"json",,Mainloop,com.harrcharr.pulse,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/java/com/harrcharr/pulse/Mainloop.java,Mainloop.java
+CS2,NotSecuringLibraries,"pulse",,Mainloop,com.harrcharr.pulse,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/java/com/harrcharr/pulse/Mainloop.java,Mainloop.java
+CS3,NotSecuringLibraries,"pulse_interface",,Mainloop,com.harrcharr.pulse,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/java/com/harrcharr/pulse/Mainloop.java,Mainloop.java
+CS4,NotSecuringLibraries,"pulsecommon-UNKNOWN.UNKNOWN",,Mainloop,com.harrcharr.pulse,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/java/com/harrcharr/pulse/Mainloop.java,Mainloop.java
+CS5,NotSecuringLibraries,"sndfile",,Mainloop,com.harrcharr.pulse,/home/shahrukh/smellDetection/Detection/projects/projects/projects12/libpulse-android-master/src/main/java/com/harrcharr/pulse/Mainloop.java,Mainloop.java

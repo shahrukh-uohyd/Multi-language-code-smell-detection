@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,loadData,StudentInfoLoader,com.glumes.cppso.infomanager,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/AndroidDevWithCpp-master/cppso/src/main/java/com/glumes/cppso/infomanager/StudentInfoLoader.java,StudentInfoLoader.java
+CS2,UnusedDeclarationDetectio,,free,AviPlayer,com.glumes.cppso.aviplayer,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/AndroidDevWithCpp-master/cppso/src/main/java/com/glumes/cppso/aviplayer/AviPlayer.java,AviPlayer.java

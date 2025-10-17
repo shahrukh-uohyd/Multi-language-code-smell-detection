@@ -1,0 +1,14 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,getHostApiInfo,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS2,UnusedImplementationDetectio,,getDefaultInputDevice,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS3,UnusedImplementationDetectio,,getDeviceInfo,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS4,UnusedImplementationDetectio,,hostApiDeviceIndexToDeviceIndex,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS5,UnusedImplementationDetectio,,getLastHostErrorInfo,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS6,UnusedImplementationDetectio,,getDefaultOutputDevice,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS7,UnusedImplementationDetectio,,getVersion,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS8,UnusedImplementationDetectio,,getDefaultHostApi,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS9,UnusedImplementationDetectio,,getHostApiCount,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS10,UnusedImplementationDetectio,,getDeviceCount,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS11,UnusedImplementationDetectio,,getVersionText,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS12,UnusedImplementationDetectio,,sleep,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java
+CS13,UnusedImplementationDetectio,,hostApiTypeIdToHostApiIndex,JPA,com.github.rjeschke.jpa,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/jpa-master/src/main/java/com/github/rjeschke/jpa/JPA.java,JPA.java

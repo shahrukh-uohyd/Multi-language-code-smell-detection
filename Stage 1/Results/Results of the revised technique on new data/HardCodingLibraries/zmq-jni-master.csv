@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,HardCodingLibraries,bundled(library),loadLibrary,Loader,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/Loader.java,Loader.java
+CS2,HardCodingLibraries,library,loadLibrary,Loader,org.zeromq.jni,/home/shahrukh/smellDetection/Detection/projects/projects/projects1/zmq-jni-master/src/main/java/org/zeromq/jni/Loader.java,Loader.java

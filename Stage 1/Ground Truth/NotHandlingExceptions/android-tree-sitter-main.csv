@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"errorOffset",fillQuery,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/lib/ts_query.cc,ts_query.cc
+CS2,NotHandlingExceptions,"com/itsaky/androidide/treesitter/TSRange",Java_com_itsaky_androidide_treesitter_TSParser_00024Native_getIncludedRanges,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/lib/ts_parser.cc,ts_parser.cc
+CS3,NotHandlingExceptions,"errorType",fillQuery,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/lib/ts_query.cc,ts_query.cc
+CS4,NotHandlingExceptions,"com/itsaky/androidide/treesitter/TSRange",Java_com_itsaky_androidide_treesitter_TSTree_00024Native_changedRanges,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/lib/ts_tree.cc,ts_tree.cc

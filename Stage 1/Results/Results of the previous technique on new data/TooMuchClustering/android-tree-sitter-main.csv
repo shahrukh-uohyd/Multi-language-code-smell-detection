@@ -1,0 +1,8 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClustering,,,TSLanguage,com.itsaky.androidide.treesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/android-tree-sitter/src/main/java/com/itsaky/androidide/treesitter/TSLanguage.java
+AP2,TooMuchClustering,,,Native,com.itsaky.androidide.treesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/android-tree-sitter/src/main/java/com/itsaky/androidide/treesitter/TSLanguage.java
+AP3,TooMuchClustering,,,TSNode,com.itsaky.androidide.treesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/android-tree-sitter/src/main/java/com/itsaky/androidide/treesitter/TSNode.java
+AP4,TooMuchClustering,,,TSParser,com.itsaky.androidide.treesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/android-tree-sitter/src/main/java/com/itsaky/androidide/treesitter/TSParser.java
+AP5,TooMuchClustering,,,TSQueryCursor,com.itsaky.androidide.treesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/android-tree-sitter/src/main/java/com/itsaky/androidide/treesitter/TSQueryCursor.java
+AP6,TooMuchClustering,,,TSTreeCursor,com.itsaky.androidide.treesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/android-tree-sitter/src/main/java/com/itsaky/androidide/treesitter/TSTreeCursor.java
+AP7,TooMuchClustering,,,TSLanguages,com.itsaky.androidide.treesitter,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/android-tree-sitter/src/main/java/com/itsaky/androidide/treesitter/TSLanguages.java

@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,file,load,NativeLibraryLoaderHelper,io.github.alexanderschuetz97.nativeutils.impl,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/JavaNativeUtils-master/src/main/java/io/github/alexanderschuetz97/nativeutils/impl/NativeLibraryLoaderHelper.java,NativeLibraryLoaderHelper.java
+CS2,NotSecuringLibraries,tempLibFile.getAbsolutePath(),loadLib,NativeLibraryLoaderHelper,io.github.alexanderschuetz97.nativeutils.impl,/home/shahrukh/smellDetection/Detection/projects/projects/projects11/JavaNativeUtils-master/src/main/java/io/github/alexanderschuetz97/nativeutils/impl/NativeLibraryLoaderHelper.java,NativeLibraryLoaderHelper.java

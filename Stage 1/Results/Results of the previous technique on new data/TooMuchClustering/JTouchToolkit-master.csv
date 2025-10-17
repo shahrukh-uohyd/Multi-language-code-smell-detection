@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClustering,,,HLAPI,com.uce.userlab.haptics.HL,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JTouchToolkit-master/v1/JTouchToolkit/src/com/uce/userlab/haptics/HL/HLAPI.java
+AP2,TooMuchClustering,,,HDAPI,com.uce.userlab.haptics.HD,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JTouchToolkit-master/v1/JTouchToolkit/src/com/uce/userlab/haptics/HD/HDAPI.java
+AP3,TooMuchClustering,,,HDAL,com.bcu.userlab.haptics.HDAL,/home/shahrukh/smellDetection/Detection/projects/projects/projects3/JTouchToolkit-master/v2/JTouchToolkit/src/com/bcu/userlab/haptics/HDAL/HDAL.java

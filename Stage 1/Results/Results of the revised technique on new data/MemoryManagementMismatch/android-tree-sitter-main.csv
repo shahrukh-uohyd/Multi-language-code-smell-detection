@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,StringUTFChars,Java_com_itsaky_androidide_treesitter_TSQuery_00024Native_newQuery,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects9/android-tree-sitter-main/lib/ts_query.cc,ts_query.cc

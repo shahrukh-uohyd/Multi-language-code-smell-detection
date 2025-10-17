@@ -1,0 +1,11 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"r",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS2,NotHandlingExceptions,"op",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS3,NotHandlingExceptions,"w",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS4,NotHandlingExceptions,"y",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS5,NotHandlingExceptions,"x",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS6,NotHandlingExceptions,"h",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS7,NotHandlingExceptions,"libjpeg/TurboJpeg$Transform$Region",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS8,NotHandlingExceptions,"[I",Java_libjpeg_TurboJpeg_tjGetScalingFactors,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS9,NotHandlingExceptions,"libjpeg/TurboJpeg$Transform",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS10,NotHandlingExceptions,"options",getTransform,,,/home/shahrukh/smellDetection/Detection/projects/projects/projects4/jpegkit-android-master/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
