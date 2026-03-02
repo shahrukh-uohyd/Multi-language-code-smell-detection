@@ -1,0 +1,61 @@
+Project Name,Project links,Commit,Total Lines of Code,Java (%),C/C++ (%),No. of JNI files,No. of Native Methods,Application Domain
+ADI-master,https://github.com/zkwlx/ADI,6ee2cea,12546,6.1,59.22,2,13,Android / Mobile / NDK
+Android-tree-sitter-main,https://github.com/Android / Mobile / NDKIDEOfficial/Android / Mobile / NDK-tree-sitter,9334675,3690,28.83,36.69,9,115,Android / Mobile / NDK
+Android-Zbar-JNI-Example-master,https://github.com/ndunks/Android / Mobile / NDK-Zbar-JNI-Example,de91d24,137531,0.38,93.96,4,47,Android / Mobile / NDK
+AndroidDevWithCpp-master,https://github.com/glumes/Android / Mobile / NDKDevWithCpp,1223713,6886,6.68,73.64,13,54,Android / Mobile / NDK
+AndroidJNIDemo-master,https://github.com/dingpengqiang/Android / Mobile / NDKJNIDemo,4cb0c1c,79427,3.54,93.43,6,43,Android / Mobile / NDK
+Break_it_all-main,https://github.com/simonppg/Break_it_all,5c938ed,6112,5.12,37.03,2,22,Multimedia / Graphics / Game
+dedekind-MKL-master,https://github.com/stefan-zobel/dedekind-MKL,5905a30,12156,34.69,60.69,3,113,Data / Scientific / ML
+DevSlashLirc-master,https://github.com/bengtmartensson/DevSlashLirc,5fc4d27,1937,24.78,48.32,3,26,Systems / Networking / Middleware
+extension_sdk_demo-master,https://github.com/AsteriskZuo/extension_sdk_demo,a3f9a8e,3783,21.57,44.89,5,19,Android / Mobile / NDK
+faiss-center-master,https://github.com/hacktmz/faiss-center,fd450fb,178894,0.39,9.83,1,28,Data / Scientific / ML
+FumoCement-main,https://github.com/novelrt/FumoCement,1789fee,1542,46.95,33.59,15,57,Systems / Networking / Middleware
+gdal-warp-bindings-master,https://github.com/geotrellis/gdal-warp-bindings,9bb7866,4957,14.34,66.03,1,24,Multimedia / Graphics / Game
+GrandPlan-main,https://github.com/npweber/GrandPlan,62892,4269,10.35,19.84,1,19,Android / Mobile / NDK
+hello-jniCallback-master,https://github.com/Jiangxuewu/hello-jniCallback,2166028,337698,4.11,1.02,8,20,Android / Mobile / NDK
+Intel_SGX_Proj-master,https://github.com/sm67nono/Intel_SGX_Proj,f74905b,12324,14.48,56.63,8,42,Security / Cryptography
+ipc-master,https://github.com/nmittu/ipc,38cf16c,2038,7.8,79.54,2,19,Systems / Networking / Middleware
+janot-master,https://github.com/pitcer/janot,2a1fcc8,1175,24.94,40.43,7,31,Native Library Binding
+JavaCAN-javacan-1.2,https://github.com/pschichtel/JavaCAN/releases/tag/javacan-1.2,6248cc0,1790,39.27,37.6,1,27,Systems / Networking / Middleware
+JavaCAN-master,https://github.com/pschichtel/JavaCAN,18a3f0c,6519,60.24,15.71,5,62,Systems / Networking / Middleware
+JavaNativeUtils-master,https://github.com/AlexanderSchuetz97/JavaNativeUtils,7cd174e,24133,27.41,69.07,7,251,Native Library Binding
+jazzer-0.9,https://github.com/CodeIntelligenceTesting/jazzer/releases/tag/v0.9,867b6a1,6796,24.25,35.12,4,42,Security / Cryptography
+jdetector-master,https://github.com/hhu-bsinfo/jdetector,9faf203,2027,21.85,49.63,5,81,Native Library Binding
+jni_examples-master,https://github.com/NullpointerWorks/jni_examples,6e0fbf9,2880,7.15,23.26,7,18,Native Library Binding
+jni-bind-Release-0.1.0-alpha,https://github.com/google/jni-bind/releases/tag/Release-0.1.0-alpha,ca02cc9,17672,4.44,85.39,8,67,Native Library Binding
+JniDemo-master,https://github.com/panda912/JniDemo,cdc123f,23196,2.97,93.27,5,13,Android / Mobile / NDK
+JNIHelper-master,https://github.com/Pika960/JNIHelper,956649e,1590,22.01,52.58,1,17,Native Library Binding
+jogg-master,https://github.com/echocat/jogg,113679b,4903,15.62,60.7,6,72,Multimedia / Graphics / Game
+jopus-master,https://github.com/echocat/jopus,cdef7b5,40193,3.4,92.08,6,96,Multimedia / Graphics / Game
+jpa-master,https://github.com/rjeschke/jpa,fb09a6b,1570,40.06,23.57,1,33,Native Library Binding
+jpegkit-Android-master,https://github.com/CameraKit/jpegkit-Android / Mobile / NDK,01a782f,6133,22.24,61.98,2,11,Android / Mobile / NDK
+jpostal-master,https://github.com/openvenues/jpostal,0364c0d,1544,33.74,24.16,4,10,Multimedia / Graphics / Game
+JTouchToolkit-master,https://github.com/IanJohnArcher/JTouchToolkit,a17f080,86854,5.86,2.96,6,220,Systems / Networking / Middleware
+jzorba-master,https://github.com/mksh/jzorba,c0c63b9,708,32.49,45.62,2,11,Data / Scientific / ML
+leveldbjni-master,https://github.com/ValleZ/leveldbjni,f41e74f,916,55.46,25,1,20,Data / Scientific / ML
+libhpdf-AndroidLibrary-master,https://github.com/SteadfastInnovation/libhpdf-Android / Mobile / NDKLibrary,c70d1d9,250209,0.11,68.93,2,19,Android / Mobile / NDK
+LibOQSTestApp-master,https://github.com/Hatzen/LibOQSTestApp,84aedb3,3697,21.5,56.32,5,72,Security / Cryptography
+libpulse-Android-master,https://github.com/hchapman/libpulse-Android / Mobile / NDK,dfa4d99,4638,14.42,75.01,11,21,Multimedia / Graphics / Game
+libv4l2-master,https://github.com/nightkidxmd/libv4l2,3fa2f9c,891,35.24,61.95,1,47,Multimedia / Graphics / Game
+LimeLight-master,https://github.com/CurlSudoBash/LimeLight,0ae99f8,50516,33.79,30.09,8,55,Multimedia / Graphics / Game
+ndk-master,https://github.com/zhanghai/linenoise-Android / Mobile / NDK,553dece,79164,4.34,90.86,21,82,Android / Mobile / NDK
+ndk-someiplib-main,https://github.com/suyimin/ndk,fcb715e,98328,0.61,87.38,2,23,Android / Mobile / NDK
+neutrino-master,https://github.com/lixiaolia/ndk-someiplib,6c0739c,19597,70.33,16.15,9,135,Android / Mobile / NDK
+of_core_jni-main,https://github.com/hhu-bsinfo/neutrino,358663,5639,45.13,50.67,2,53,Systems / Networking / Middleware
+openssl4j-master,https://github.com/connectedway/of_core_jni,5ef3d92,1901,54.76,14.57,2,67,Native Library Binding
+PYJA-master,https://github.com/sfuhrm/openssl4j,69ccc1c,101565,0.94,4.74,4,12,Security / Cryptography
+RajawaliAssimpBridge-master,https://github.com/contriteobserver/RajawaliAssimpBridge,de4ed05,3449,24.82,29.69,1,65,Multimedia / Graphics / Game
+RajawaliTollBridge-main,https://github.com/contriteobserver/RajawaliTollBridge,aa050c2,1043,28.19,39.98,1,28,Multimedia / Graphics / Game
+RobotPathfinder-master,https://github.com/tylertian123/RobotPathfinder,8572f47,9137,66.32,24.85,5,39,Data / Scientific / ML
+rtlsdrj-main,https://github.com/itdaniher/rtlsdrj,899c89b,1810,57.13,32.65,1,33,Native Library Binding
+rustjblas-master,https://github.com/sadikovi/rustjblas,3748ef7,6109,21.15,9.3,1,52,Data / Scientific / ML
+SDL2-Ndk-Opengles-SampleApp-master,https://github.com/regar007/SDL2-Ndk-Opengles-SampleApp,51d7d8f,278421,0.43,65.3,2,48,Multimedia / Graphics / Game
+sdljoystick4java-master,https://github.com/jessepav/sdljoystick4java,0f22b1f,7364,7.07,4.59,1,41,Multimedia / Graphics / Game
+SoundTouch4Android-master,https://github.com/noiary/SoundTouch4Android / Mobile / NDK,4e46574,8063,2.47,50.74,1,25,Multimedia / Graphics / Game
+VideoEffectRendering-master,https://github.com/VineshChauhan24/VideoEffectRendering,dd25d62,21613,4.78,37.96,2,20,Multimedia / Graphics / Game
+webrtc-java-0.2.0,https://github.com/devopvoid/webrtc-java/releases/tag/v0.2.0,9496ea6,21630,42.03,47.75,23,150,Systems / Networking / Middleware
+webrtc-java-master,https://github.com/devopvoid/webrtc-java,02d0201,26594,37.46,54.55,27,186,Systems / Networking / Middleware
+wolfcrypt-jni-master,https://github.com/wolfSSL/wolfcrypt-jni,ae3ed2b,19441,56.02,40.73,42,248,Security / Cryptography
+wolfssljni-master,https://github.com/wolfSSL/wolfssljni,f71ed63,30745,58.62,34.95,9,241,Security / Cryptography
+zmq-jni-master,https://github.com/zeromq/zmq-jni,4256653,1330,33.68,20.68,1,29,Systems / Networking / Middleware
+zstd-jni-master,https://github.com/luben/zstd-jni,3d5ab91,49215,4.3,89.31,9,106,Data / Scientific / ML
